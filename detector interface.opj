@@ -1,0 +1,62 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\detector interface.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC_BAR
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\detector interface.dsn")
+      (Path "Design Resources" ".\detector interface.dsn" "SCHEMATIC_DIF")
+      (Path "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T")
+      (Path "Design Resources" ".\detector interface.dsn" "HIGH_VOLTAGE")
+      (Path "Design Resources" ".\detector interface.dsn" "INTERFACE")
+      (Path "Design Resources" ".\detector interface.dsn" "POWER")
+      (Select "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T"
+         "12.GTP"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 441"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1694 50 519")
+        (Scroll "0 494")
+        (Zoom "348"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "12.GTP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1719 75 544")
+        (Scroll "0 237")
+        (Zoom "174"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "13.CFIG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1744 100 569")
+        (Scroll "-313 0")
+        (Zoom "100"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "10.FPGA_BANK3 4")))
+  (MPSSessionName "Msy"))
