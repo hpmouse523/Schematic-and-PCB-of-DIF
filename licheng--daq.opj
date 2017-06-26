@@ -1,0 +1,40 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\licheng--daq.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\licheng--daq.dsn")
+      (Path "Design Resources" ".\licheng--daq.dsn" "DAQ_TOP")
+      (Path "Design Resources" ".\licheng--daq.dsn" "CONNECTOR")
+      (Path "Design Resources" ".\licheng--daq.dsn" "POWER")
+      (Path "Design Resources" ".\licheng--daq.dsn" "ZYNQ_FPGA")
+      (Path "Design Resources" ".\licheng--daq.dsn" "ZYNQ_SYS")
+      (Select "Design Resources" ".\licheng--daq.dsn" "ZYNQ_SYS"
+         "RST_CLK_CONFIG"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 431"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1719 50 438")
+        (Scroll "0 5651")
+        (Zoom "320")
+        (Occurrence "/ZYNQ_SYS"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\LICHENG--DAQ.DSN")
+      (Schematic "ZYNQ_SYS")
+      (Page "RST_CLK_CONFIG"))))
