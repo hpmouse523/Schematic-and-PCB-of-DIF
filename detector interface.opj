@@ -31,13 +31,10 @@
          "HIGH_VOLTAGE")
       (Path "Design Resources"
          "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
-         "INTERFACE")
-      (Path "Design Resources"
-         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
          "POWER")
       (Select "Design Resources"
          "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
-         "INTERFACE" "6. USB_INTERFACE"))
+         "POWER" "2. POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -47,11 +44,21 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 150 1794 150 619")
-        (Scroll "-197 178")
-        (Zoom "146"))
+        (Placement "44 0 1 -1 -1 -8 -30 25 1669 25 494")
+        (Scroll "-313 0")
+        (Zoom "100"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "HIGH_VOLTAGE")
-      (Page "4. HIGH_VOLTAGE")))
+      (Schematic "POWER")
+      (Page "3. POWER_DETECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1694 50 519")
+        (Scroll "-486 -6")
+        (Zoom "78"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "POWER")
+      (Page "2. POWER")))
   (MPSSessionName "Msy"))
