@@ -20,8 +20,7 @@
       (Path "Design Resources" ".\licheng--daq.dsn" "POWER")
       (Path "Design Resources" ".\licheng--daq.dsn" "ZYNQ_FPGA")
       (Path "Design Resources" ".\licheng--daq.dsn" "ZYNQ_SYS")
-      (Select "Design Resources" ".\licheng--daq.dsn" "ZYNQ_SYS"
-         "RST_CLK_CONFIG"))
+      (Select "Design Resources" ".\licheng--daq.dsn" "ZYNQ_FPGA" "ZYNQ_PS"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -37,4 +36,25 @@
         (Occurrence "/ZYNQ_SYS"))
       (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\LICHENG--DAQ.DSN")
       (Schematic "ZYNQ_SYS")
-      (Page "RST_CLK_CONFIG"))))
+      (Page "RST_CLK_CONFIG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1794 150 619")
+        (Scroll "740 3671")
+        (Zoom "256")
+        (Occurrence "/ZYNQ_FPGA"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\LICHENG--DAQ.DSN")
+      (Schematic "ZYNQ_FPGA")
+      (Page "ZYNQ_PL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1819 175 644")
+        (Scroll "-408 601")
+        (Zoom "78")
+        (Occurrence "/ZYNQ_FPGA"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\LICHENG--DAQ.DSN")
+      (Schematic "ZYNQ_FPGA")
+      (Page "ZYNQ_PS")))
+  (MPSSessionName "Msy"))

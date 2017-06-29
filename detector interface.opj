@@ -18,23 +18,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn")
-      (Path "Design Resources"
-         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
-         "SCHEMATIC_DIF")
-      (Path "Design Resources"
-         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
-         "FPGA_XC7A100T")
-      (Path "Design Resources"
-         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
-         "HIGH_VOLTAGE")
-      (Path "Design Resources"
-         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
-         "POWER")
-      (Select "Design Resources"
-         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
-         "POWER" "2. POWER"))
+      (Path "Design Resources" ".\detector interface.dsn")
+      (Path "Design Resources" ".\detector interface.dsn" "SCHEMATIC_DIF")
+      (Path "Design Resources" ".\detector interface.dsn" "CLK&RESET")
+      (Path "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T")
+      (Path "Design Resources" ".\detector interface.dsn" "HIGH_VOLTAGE")
+      (Path "Design Resources" ".\detector interface.dsn" "INTERFACE")
+      (Path "Design Resources" ".\detector interface.dsn" "POWER")
+      (Select "Design Resources" ".\detector interface.dsn" "HIGH_VOLTAGE"
+         "4. HIGH_VOLTAGE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -44,9 +36,39 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1669 25 494")
+        (Placement "44 2 3 -1 -1 -8 -30 75 1719 75 544")
+        (Scroll "0 0")
+        (Zoom "130"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "INTERFACE")
+      (Page "8. INTERFACE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1794 150 619")
         (Scroll "-313 0")
         (Zoom "100"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "11.FPGA_BANK5 6"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1819 175 644")
+        (Scroll "119 164")
+        (Zoom "200"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "12.GTP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1744 100 569")
+        (Scroll "119 0")
+        (Zoom "200"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
       (Schematic "POWER")
@@ -54,11 +76,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1694 50 519")
-        (Scroll "-486 -6")
-        (Zoom "78"))
+        (Placement "44 0 1 -1 -1 -8 -30 125 1769 125 594")
+        (Scroll "119 474")
+        (Zoom "200"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "POWER")
-      (Page "2. POWER")))
+      (Schematic "HIGH_VOLTAGE")
+      (Page "4. HIGH_VOLTAGE")))
   (MPSSessionName "Msy"))
