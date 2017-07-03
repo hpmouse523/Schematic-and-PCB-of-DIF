@@ -24,63 +24,31 @@
       (Path "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T")
       (Path "Design Resources" ".\detector interface.dsn" "HIGH_VOLTAGE")
       (Path "Design Resources" ".\detector interface.dsn" "INTERFACE")
-      (Path "Design Resources" ".\detector interface.dsn" "POWER")
-      (Select "Design Resources" ".\detector interface.dsn" "HIGH_VOLTAGE"
-         "4. HIGH_VOLTAGE"))
+      (Path "Design Resources" ".\detector interface.dsn" "POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 441"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 441"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 75 1719 75 544")
-        (Scroll "0 0")
-        (Zoom "130"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "INTERFACE")
-      (Page "8. INTERFACE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1794 150 619")
-        (Scroll "-313 0")
-        (Zoom "100"))
+        (Placement "44 0 1 -1 -1 -8 -30 0 1644 0 469")
+        (Scroll "-304 0")
+        (Zoom "65"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
       (Schematic "FPGA_XC7A100T")
-      (Page "11.FPGA_BANK5 6"))
+      (Page "9. FPGA_BANK1 2"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 175 1819 175 644")
-        (Scroll "119 164")
+        (Placement "44 0 1 -1 -1 -8 -30 25 1669 25 494")
+        (Scroll "0 416")
         (Zoom "200"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
       (Schematic "FPGA_XC7A100T")
-      (Page "12.GTP"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1744 100 569")
-        (Scroll "119 0")
-        (Zoom "200"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "POWER")
-      (Page "3. POWER_DETECTOR"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1769 125 594")
-        (Scroll "119 474")
-        (Zoom "200"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "HIGH_VOLTAGE")
-      (Page "4. HIGH_VOLTAGE")))
+      (Page "12.GTP")))
   (MPSSessionName "Msy"))
