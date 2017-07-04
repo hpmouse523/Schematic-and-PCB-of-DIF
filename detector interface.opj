@@ -34,21 +34,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1644 0 469")
-        (Scroll "-304 0")
-        (Zoom "65"))
+        (Placement "44 0 1 -1 -1 -8 -30 0 1694 0 366")
+        (Scroll "-63 0")
+        (Zoom "100"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
       (Schematic "FPGA_XC7A100T")
-      (Page "9. FPGA_BANK1 2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1669 25 494")
-        (Scroll "0 416")
-        (Zoom "200"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "12.GTP")))
+      (Page "9. FPGA_BANK1 2")))
   (MPSSessionName "Msy"))
