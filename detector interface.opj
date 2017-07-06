@@ -2,7 +2,9 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File ".\usb type c.olb"
+        (Type "Schematic Library")))
     (File ".\detector interface.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
@@ -11,6 +13,11 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("USB_Type c！！plug"
+      (FullPartName "USB_Type c！！plug.Normal")
+      (LibraryName
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\USB TYPE C.OLB")
+      (DeviceIndex "0"))
     (VCC_BAR
       (LibraryName
          "D:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -18,13 +25,31 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\detector interface.dsn")
-      (Path "Design Resources" ".\detector interface.dsn" "SCHEMATIC_DIF")
-      (Path "Design Resources" ".\detector interface.dsn" "CLK&RESET")
-      (Path "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T")
-      (Path "Design Resources" ".\detector interface.dsn" "HIGH_VOLTAGE")
-      (Path "Design Resources" ".\detector interface.dsn" "INTERFACE")
-      (Path "Design Resources" ".\detector interface.dsn" "POWER"))
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
+         "SCHEMATIC_DIF")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
+         "CLK&RESET")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
+         "FPGA_XC7A100T")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
+         "HIGH_VOLTAGE")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
+         "INTERFACE")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"
+         "POWER")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\usb type c.olb")
+      (Select "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -34,11 +59,44 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1744 100 569")
+        (Scroll "-152 28")
+        (Zoom "64")
+        (Occurrence "/"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "SCHEMATIC_DIF")
+      (Page "1. TOP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1769 125 594")
+        (Scroll "170 428")
+        (Zoom "131")
+        (Occurrence "/Interface"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "INTERFACE")
+      (Page "8. INTERFACE TO DETECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
         (Placement "44 0 1 -1 -1 -8 -30 0 1694 0 366")
-        (Scroll "-63 0")
-        (Zoom "100"))
+        (Scroll "-63 125")
+        (Zoom "100")
+        (Occurrence "/FPGA"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
       (Schematic "FPGA_XC7A100T")
-      (Page "9. FPGA_BANK1 2")))
+      (Page "11.FPGA_BANK5 6"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1719 25 391")
+        (Scroll "-338 83")
+        (Zoom "100"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "HIGH_VOLTAGE")
+      (Page "4. HIGH_VOLTAGE")))
   (MPSSessionName "Msy"))
