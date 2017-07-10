@@ -45,10 +45,48 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (FLDSTUFF_Scope "0")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File
+       "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.RPT")
+    (FLDSTUFF_Update_File
+       "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "1")
+    (FLDSTUFF_Create_Report_File "FALSE")
+    (Netlist_TAB "0"))
   (Folder "Outputs"
     (File ".\detector interface.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     ("USB_Type c¡ª¡ªplug"
@@ -65,78 +103,19 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\detector interface.dsn")
       (Path "Design Resources" ".\detector interface.dsn" "SCHEMATIC_DIF")
+      (Path "Design Resources" ".\detector interface.dsn" "CLK&RESET")
+      (Path "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T")
+      (Path "Design Resources" ".\detector interface.dsn" "HIGH_VOLTAGE")
+      (Path "Design Resources" ".\detector interface.dsn" "INTERFACE")
+      (Path "Design Resources" ".\detector interface.dsn" "POWER")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\detector interface.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 0 200 0 441"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1744 100 569")
-        (Scroll "764 654")
-        (Zoom "128")
-        (Occurrence "/"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "SCHEMATIC_DIF")
-      (Page "1. TOP"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1819 125 491")
-        (Scroll "-338 0")
-        (Zoom "100")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "5. FPGA_POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1844 150 516")
-        (Scroll "-338 0")
-        (Zoom "100")
-        (Occurrence "/Interface"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "INTERFACE")
-      (Page "6. USB_INTERFACE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1694 0 366")
-        (Scroll "-338 0")
-        (Zoom "100")
-        (Occurrence "/H_Voltage"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "HIGH_VOLTAGE")
-      (Page "4. HIGH_VOLTAGE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1719 25 391")
-        (Scroll "-338 0")
-        (Zoom "100")
-        (Occurrence "/Clk"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "CLK&RESET")
-      (Page "14.CLK&RESET"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1744 50 416")
-        (Scroll "86 106")
-        (Zoom "240")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "10.FPGA_BANK3 4")))
-  (MPSSessionName "Msy"))
+      (Tab 0)))
+  (MPSSessionName "Msy")
+  (ISPCBBASICLICENSE "false"))

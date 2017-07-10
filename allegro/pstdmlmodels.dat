@@ -1,0 +1,131 @@
+("allegro\\pstdmlmodels.dat" 
+ (PackagedDevice 
+  (DEFAULT_CAPACITOR_100000pF_1_2 
+   (ESpice ".subckt DEFAULT_CAPACITOR_100000pF_1_2 2 1
+C1 2 1 1e-007
+.ends DEFAULT_CAPACITOR_100000pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  (DEFAULT_CAPACITOR_10000pF_1_2 
+   (ESpice ".subckt DEFAULT_CAPACITOR_10000pF_1_2 2 1
+C1 2 1 1e-008
+.ends DEFAULT_CAPACITOR_10000pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_CAPACITOR_1e+06pF_1_2" 
+   (ESpice ".subckt DEFAULT_CAPACITOR_1e+06pF_1_2 2 1
+C1 2 1 1e-006
+.ends DEFAULT_CAPACITOR_1e+06pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_CAPACITOR_1e-06pF_1_2" 
+   (ESpice ".subckt DEFAULT_CAPACITOR_1e-06pF_1_2 2 1
+C1 2 1 1e-018
+.ends DEFAULT_CAPACITOR_1e-06pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_CAPACITOR_1e-07pF_1_2" 
+   (ESpice ".subckt DEFAULT_CAPACITOR_1e-07pF_1_2 2 1
+C1 2 1 1e-019
+.ends DEFAULT_CAPACITOR_1e-07pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_CAPACITOR_1e-08pF_1_2" 
+   (ESpice ".subckt DEFAULT_CAPACITOR_1e-08pF_1_2 2 1
+C1 2 1 1e-020
+.ends DEFAULT_CAPACITOR_1e-08pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_CAPACITOR_1e-09pF_1_2" 
+   (ESpice ".subckt DEFAULT_CAPACITOR_1e-09pF_1_2 2 1
+C1 2 1 1e-021
+.ends DEFAULT_CAPACITOR_1e-09pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_CAPACITOR_4.7e+06pF_1_2" 
+   (ESpice ".subckt DEFAULT_CAPACITOR_4.7e+06pF_1_2 2 1
+C1 2 1 4.7e-006
+.ends DEFAULT_CAPACITOR_4.7e+06pF_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_INDUCTOR_0.001nH_1_2" 
+   (ESpice ".subckt DEFAULT_INDUCTOR_0.001nH_1_2 2 1
+L1 2 1 1e-012
+.ends DEFAULT_INDUCTOR_0.001nH_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_RESISTOR_0.001OHM_1_2" 
+   (ESpice ".subckt DEFAULT_RESISTOR_0.001OHM_1_2 2 1
+R1 2 1 0.001
+.ends DEFAULT_RESISTOR_0.001OHM_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_RESISTOR_100.000000OHM_1_2" 
+   (ESpice ".subckt DEFAULT_RESISTOR_100.000000OHM_1_2 2 1
+R1 2 1 100
+.ends DEFAULT_RESISTOR_100.000000OHM_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_RESISTOR_1000.000000OHM_1_2" 
+   (ESpice ".subckt DEFAULT_RESISTOR_1000.000000OHM_1_2 2 1
+R1 2 1 1000
+.ends DEFAULT_RESISTOR_1000.000000OHM_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  (DEFAULT_RESISTOR_100000OHM_1_2 
+   (ESpice ".subckt DEFAULT_RESISTOR_100000OHM_1_2 2 1
+R1 2 1 100000
+.ends DEFAULT_RESISTOR_100000OHM_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  (DEFAULT_RESISTOR_10000OHM_1_2 
+   (ESpice ".subckt DEFAULT_RESISTOR_10000OHM_1_2 2 1
+R1 2 1 10000
+.ends DEFAULT_RESISTOR_10000OHM_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_RESISTOR_33.000000OHM_1_2" 
+   (ESpice ".subckt DEFAULT_RESISTOR_33.000000OHM_1_2 2 1
+R1 2 1 33
+.ends DEFAULT_RESISTOR_33.000000OHM_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) 
+  ("DEFAULT_RESISTOR_330.000000OHM_1_2" 
+   (ESpice ".subckt DEFAULT_RESISTOR_330.000000OHM_1_2 2 1
+R1 2 1 330
+.ends DEFAULT_RESISTOR_330.000000OHM_1_2
+" ) 
+   (PinConnections 
+    (2 1 ) 
+    (1 2 ) ) ) ) 
+ (LibraryVersion 136.2 ) ) 
