@@ -1,15 +1,15 @@
-{ Using PSTWRITER 16.6.0 d001Jul-09-2017 at 17:02:37 }
+{ Using PSTWRITER 16.6.0 d001Jul-12-2017 at 16:38:29 }
 
 #1 WARNING(ORCAP-36006): Part Name "74441-0010_LASER22-4816-M_74441-0010" is renamed to "74441-0010_LASER22-4816-M_74441".
-#2 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package CONN_1 , J12: INTERFACE, 8. INTERFACE TO DETECTOR (5.70, 4.80).
-#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package CONN_1 , J12: INTERFACE, 8. INTERFACE TO DETECTOR (5.70, 4.80).
-#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package CONN_1 , J12: INTERFACE, 8. INTERFACE TO DETECTOR (5.70, 4.80).
-#5 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package CONN_1 , J12: INTERFACE, 8. INTERFACE TO DETECTOR (5.70, 4.80).
-#6 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package CONN_1 , J12: INTERFACE, 8. INTERFACE TO DETECTOR (5.70, 4.80).
-#7 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package CONN_1 , J12: INTERFACE, 8. INTERFACE TO DETECTOR (5.70, 4.80).
+#2 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package CONN_1 , J16: INTERFACE, 8. INTERFACE TO DETECTOR (5.50, 4.80).
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package CONN_1 , J16: INTERFACE, 8. INTERFACE TO DETECTOR (5.50, 4.80).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package CONN_1 , J16: INTERFACE, 8. INTERFACE TO DETECTOR (5.50, 4.80).
+#5 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package CONN_1 , J16: INTERFACE, 8. INTERFACE TO DETECTOR (5.50, 4.80).
+#6 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package CONN_1 , J16: INTERFACE, 8. INTERFACE TO DETECTOR (5.50, 4.80).
+#7 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package CONN_1 , J16: INTERFACE, 8. INTERFACE TO DETECTOR (5.50, 4.80).
 #8 WARNING(ORCAP-36006): Part Name "PUSHBUTTON_1_INDC2-200-M_PUSHBOTTON" is renamed to "PUSHBUTTON_1_INDC2-200-M_PUSHBO".
-#9 WARNING(ORCAP-36006): Part Name "SN65LVDS31_0_CFP16_NEW_SN65LVDS31D" is renamed to "SN65LVDS31_0_CFP16_NEW_SN65LVDS".
-#10 WARNING(ORCAP-36006): Part Name "DS26LV32AT_CFP16_NEW_SN65LVDS32D" is renamed to "DS26LV32AT_CFP16_NEW_SN65LVDS32".
+#9 WARNING(ORCAP-36006): Part Name "SN65LVDS31_0_CFP16ANDSOIC16_SN65LVDS31D" is renamed to "SN65LVDS31_0_CFP16ANDSOIC16_SN6".
+#10 WARNING(ORCAP-36006): Part Name "DS26LV32AT_CFP16ANDSOIC16_SN65LVDS32D" is renamed to "DS26LV32AT_CFP16ANDSOIC16_SN65L".
 #11 WARNING(ORCAP-36006): Part Name "CY7C68013_1_SOP56-25-300_CY7C68013" is renamed to "CY7C68013_1_SOP56-25-300_CY7C68".
 #12 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package CY7C68013_1 , U12: INTERFACE, 6. USB_INTERFACE (5.10, 0.90).
 #13 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#6" as visible power pin of same name already exists in Package CY7C68013_1 , U12: INTERFACE, 6. USB_INTERFACE (5.10, 0.90).
@@ -26,121 +26,122 @@
 #24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#48" as visible power pin of same name already exists in Package CY7C68013_1 , U12: INTERFACE, 6. USB_INTERFACE (5.10, 0.90).
 #25 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#50" as visible power pin of same name already exists in Package CY7C68013_1 , U12: INTERFACE, 6. USB_INTERFACE (5.10, 0.90).
 #26 WARNING(ORCAP-36006): Part Name "PUSHBUTTON_INDC2-200-M_PUSHBUTTON" is renamed to "PUSHBUTTON_INDC2-200-M_PUSHBUTT".
-#27 WARNING(ORCAP-36006): Part Name "XC7A100T_ARTIX7XCA100T484_(S1+S2+S3+S4+S5+S6+S7+S8+S9)_XC7A100T" is renamed to "XC7A100T_ARTIX7XCA100T484_(S1+S".
-#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A2" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#31 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#33 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A22" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA2" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#38 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA22" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB19" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#44 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B19" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#46 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C6" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#48 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#49 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C16" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#50 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D4" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#52 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D13" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#54 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E4" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#56 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E20" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F17" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#63 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#64 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G6" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#65 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#66 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#67 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#68 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#69 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#70 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G14" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#71 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H1" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#72 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#73 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#74 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#75 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H21" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#76 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#79 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J18" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#80 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#81 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#82 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#83 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#84 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#85 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#86 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#87 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#K8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#88 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#L7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#89 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#90 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#N7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#91 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#92 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#93 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#R7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#94 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#R9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#95 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#T8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#96 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#T10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#97 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#H12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#98 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#K12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#99 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#M12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#100 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#101 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#R11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#102 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#J11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#103 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#L11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#104 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#N11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#105 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y15" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#106 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#107 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W18" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#108 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#109 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V21" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#110 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#111 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V1" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#112 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U14" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#113 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U4" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#114 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T17" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#115 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#116 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#117 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#118 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R20" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#119 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#120 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#121 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#122 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P13" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#123 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#124 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#125 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#126 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#127 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N16" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#128 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#129 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N6" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#130 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M19" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#131 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#132 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#133 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L22" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#134 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#135 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L2" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#136 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K15" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
-#137 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
-#138 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
-#139 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
-#140 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
-#141 WARNING(ORCAP-36006): Part Name "USB_TYPE C¡ª¡ªPLUG_24_USB_TYPE C_PLUG" is renamed to "USB_TYPE CPLUG_24_USB_TYPE".
+#27 WARNING(ORCAP-36006): Part Name "TPS74401_QFN65P500X500-21_TPS74401" is renamed to "TPS74401_QFN65P500X500-21_TPS74".
+#28 WARNING(ORCAP-36006): Part Name "XC7A100T_ARTIX7XCA100T484_(S1+S2+S3+S4+S5+S6+S7+S8+S9)_XC7A100T" is renamed to "XC7A100T_ARTIX7XCA100T484_(S1+S".
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A2" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#31 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#33 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A22" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#38 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA2" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AA22" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#AB19" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#44 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B19" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#46 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C6" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#48 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#49 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#50 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C16" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#52 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D4" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#54 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D13" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E4" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#56 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E20" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#63 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#F17" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#64 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#65 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G6" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#66 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#67 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#68 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#69 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#70 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#71 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G14" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#72 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H1" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#73 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#74 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#75 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#76 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H21" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#79 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#80 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J18" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#81 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#82 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#83 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#84 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#85 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#86 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#87 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#88 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#K8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#89 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#L7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#90 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#91 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#N7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#92 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#93 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#P10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#94 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#R7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#95 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#R9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#96 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#T8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#97 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#T10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#98 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#H12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#99 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#K12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#100 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#M12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#101 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#102 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#R11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#103 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#J11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#104 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#L11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#105 WARNING(ORCAP-36042): Pin "VCCBRAM" is renamed to "VCCBRAM#N11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#106 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y15" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#107 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#Y5" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#108 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W18" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#109 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#W8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#110 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V21" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#111 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#112 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V1" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#113 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U14" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#114 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U4" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#115 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T17" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#116 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#117 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#118 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#119 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R20" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#120 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R12" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#121 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R10" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#122 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#123 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P13" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#124 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#125 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P9" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#126 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#127 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#P3" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#128 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N16" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#129 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#130 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N6" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#131 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M19" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#132 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M11" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#133 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M7" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#134 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L22" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#135 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L8" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#136 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L2" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#137 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K15" as visible power pin of same name already exists in Package XC7A100TI , U3A: FPGA_XC7A100T, 13.CFIG (2.90, 0.70).
+#138 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
+#139 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
+#140 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
+#141 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package C11204-01 , U6: HIGH_VOLTAGE, 4. HIGH_VOLTAGE (2.10, 1.40).
+#142 WARNING(ORCAP-36006): Part Name "USBTYPECPLUG_USB_TYPEC_PLUG_V1_USBTYPECPLUG" is renamed to "USBTYPECPLUG_USB_TYPEC_PLUG_V1_".
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\allegro/pstchip.dat
