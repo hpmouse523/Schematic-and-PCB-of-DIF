@@ -112,7 +112,7 @@
       (Path "Design Resources" "Library" ".\usb type c.olb")
       (Path "Outputs")
       (Select "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T"
-         "13.CFIG"))
+         "12.GTP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -122,9 +122,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1740 75 456")
-        (Scroll "-208 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -30 200 1815 200 684")
+        (Scroll "2065 56")
+        (Zoom "400")
+        (Occurrence "/Clk"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "CLK&RESET")
+      (Page "14.CLK&RESET"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1690 25 406")
+        (Scroll "-136 53")
+        (Zoom "112")
         (Occurrence "/FPGA"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
@@ -133,31 +144,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1765 100 481")
-        (Scroll "-406 0")
-        (Zoom "53")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "9. FPGA_BANK1 2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1790 125 506")
-        (Scroll "-48 0")
-        (Zoom "100")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "11.FPGA_BANK5 6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1815 150 531")
-        (Scroll "0 343")
-        (Zoom "288")
+        (Placement "44 2 3 -1 -1 -8 -30 50 1715 50 431")
+        (Scroll "-11 36")
+        (Zoom "184")
         (Occurrence "/FPGA"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
@@ -166,9 +155,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 175 1840 175 556")
-        (Scroll "-205 0")
-        (Zoom "144")
+        (Placement "44 0 1 -1 -1 -8 -30 75 1740 75 456")
+        (Scroll "0 0")
+        (Zoom "174")
         (Occurrence "/FPGA"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
@@ -177,13 +166,79 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1665 0 381")
-        (Scroll "991 76")
-        (Zoom "216")
+        (Placement "44 0 1 -1 -1 -8 -30 100 1765 100 481")
+        (Scroll "2078 947")
+        (Zoom "276")
+        (Occurrence "/FPGA"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "9. FPGA_BANK1 2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1498 125 506")
+        (Scroll "1649 308")
+        (Zoom "228")
+        (Occurrence "/FPGA"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "11.FPGA_BANK5 6"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1523 150 569")
+        (Scroll "2288 1814")
+        (Zoom "276")
         (Occurrence "/Interface"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
       (Schematic "INTERFACE")
-      (Page "7. LASER_INTERFACE")))
+      (Page "8. INTERFACE TO DETECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1548 175 594")
+        (Scroll "-12 110")
+        (Zoom "100")
+        (Occurrence "/Interface"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "INTERFACE")
+      (Page "7. LASER_INTERFACE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1665 0 381")
+        (Scroll "400 20")
+        (Zoom "400")
+        (Occurrence "/FPGA"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "5. FPGA_POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1640 25 509")
+        (Scroll "286 153")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "SCHEMATIC_DIF")
+      (Page "1. TOP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1665 50 534")
+        (Scroll "-298 38")
+        (Zoom "100")
+        (Occurrence "/Interface"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "INTERFACE")
+      (Page "6. USB_INTERFACE")))
   (MPSSessionName "Msy")
   (ISPCBBASICLICENSE "false"))

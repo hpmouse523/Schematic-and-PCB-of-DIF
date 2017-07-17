@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jul-12-2017 at 14:40:12 }
+{ Using PSTWRITER 16.6.0 d001Jul-12-2017 at 16:38:32 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DETECTOR INTERFACE';
@@ -780,26 +780,6 @@ SECTION_NUMBER 1
  '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):POWER@DETECTOR INTERFACE.POWER(SCH_1):INS16764528@MY_SCH_LIBRARY.CAPACITOR NP.NORMAL(CHIPS)':
  C_PATH='@\detector interface\.schematic_dif(sch_1):power@\detector interface\.power(sch_1):ins16764528@my_sch_library.\capacitor np.normal\(chips)',
  P_PATH='@\detector interface\.schematic_dif(sch_1):page1_power@\detector interface\.power(sch_1):page15_ins16764528@my_sch_library.\capacitor np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C162 'CAPACITOR NP_SC0603_0.1U':;
-
-SECTION_NUMBER 1
- '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):POWER@DETECTOR INTERFACE.POWER(SCH_1):INS16765618@MY_SCH_LIBRARY.CAPACITOR NP.NORMAL(CHIPS)':
- C_PATH='@\detector interface\.schematic_dif(sch_1):power@\detector interface\.power(sch_1):ins16765618@my_sch_library.\capacitor np.normal\(chips)',
- P_PATH='@\detector interface\.schematic_dif(sch_1):page1_power@\detector interface\.power(sch_1):page15_ins16765618@my_sch_library.\capacitor np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C163 'CAPACITOR POL_STC3528_10U':;
-
-SECTION_NUMBER 1
- '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):POWER@DETECTOR INTERFACE.POWER(SCH_1):INS16765638@MY_SCH_LIBRARY.CAPACITOR POL.NORMAL(CHIPS)':
- C_PATH='@\detector interface\.schematic_dif(sch_1):power@\detector interface\.power(sch_1):ins16765638@my_sch_library.\capacitor pol.normal\(chips)',
- P_PATH='@\detector interface\.schematic_dif(sch_1):page1_power@\detector interface\.power(sch_1):page15_ins16765638@my_sch_library.\capacitor pol.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -2564,16 +2544,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L8 'INDUCTOR_SL1812_10UH':;
-
-SECTION_NUMBER 1
- '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):POWER@DETECTOR INTERFACE.POWER(SCH_1):INS16765602@MY_SCH_LIBRARY.INDUCTOR.NORMAL(CHIPS)':
- C_PATH='@\detector interface\.schematic_dif(sch_1):power@\detector interface\.power(sch_1):ins16765602@my_sch_library.\inductor.normal\(chips)',
- P_PATH='@\detector interface\.schematic_dif(sch_1):page1_power@\detector interface\.power(sch_1):page15_ins16765602@my_sch_library.\inductor.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  O1 'OSC_DIFF_XO75L_100M':;
 
 SECTION_NUMBER 1
@@ -3754,6 +3724,16 @@ SECTION_NUMBER 1
  '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):POWER@DETECTOR INTERFACE.POWER(SCH_1):INS16778205@MY_SCH_LIBRARY.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@\detector interface\.schematic_dif(sch_1):power@\detector interface\.power(sch_1):ins16778205@my_sch_library.\resistor.normal\(chips)',
  P_PATH='@\detector interface\.schematic_dif(sch_1):page1_power@\detector interface\.power(sch_1):page14_ins16778205@my_sch_library.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R194 'RESISTOR_SR0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):POWER@DETECTOR INTERFACE.POWER(SCH_1):INS16778831@MY_SCH_LIBRARY.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\detector interface\.schematic_dif(sch_1):power@\detector interface\.power(sch_1):ins16778831@my_sch_library.\resistor.normal\(chips)',
+ P_PATH='@\detector interface\.schematic_dif(sch_1):page1_power@\detector interface\.power(sch_1):page14_ins16778831@my_sch_library.\resistor.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
