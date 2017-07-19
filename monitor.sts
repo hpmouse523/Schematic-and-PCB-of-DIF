@@ -1,0 +1,8 @@
+#Allegro PCB Router v16-6-112 made 2015/06/07 at 22:54:31
+#Host 
+#ROUTING STATUS <<< E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1\DIF_1V0.dsn >>>
+Start  Time: Report Time: Tue Jul 18 14:34:11 2017
+
+Nets         =      415   Connections         =     1232
+Current Wire =        0   Reroute wires       =      969
+Completion   =   42.78%   Unconnections       =      608

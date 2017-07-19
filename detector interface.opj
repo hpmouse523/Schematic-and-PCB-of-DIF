@@ -111,42 +111,19 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\usb type c.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\detector interface.dsn" "FPGA_XC7A100T"
-         "12.GTP"))
+      (Select "Design Resources" ".\detector interface.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 441"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 441"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 200 1815 200 684")
-        (Scroll "2065 56")
-        (Zoom "400")
-        (Occurrence "/Clk"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "CLK&RESET")
-      (Page "14.CLK&RESET"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1690 25 406")
-        (Scroll "-136 53")
-        (Zoom "112")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "10.FPGA_BANK3 4"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1715 50 431")
-        (Scroll "-11 36")
-        (Zoom "184")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1715 50 431")
+        (Scroll "-362 0")
+        (Zoom "92")
         (Occurrence "/FPGA"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
@@ -155,53 +132,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1740 75 456")
-        (Scroll "0 0")
-        (Zoom "174")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "13.CFIG"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1765 100 481")
-        (Scroll "2078 947")
-        (Zoom "276")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "9. FPGA_BANK1 2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1498 125 506")
-        (Scroll "1649 308")
-        (Zoom "228")
-        (Occurrence "/FPGA"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "FPGA_XC7A100T")
-      (Page "11.FPGA_BANK5 6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1523 150 569")
-        (Scroll "2288 1814")
-        (Zoom "276")
-        (Occurrence "/Interface"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
-      (Schematic "INTERFACE")
-      (Page "8. INTERFACE TO DETECTOR"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 175 1548 175 594")
-        (Scroll "-12 110")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -30 75 1690 75 559")
+        (Scroll "-413 0")
+        (Zoom "57")
         (Occurrence "/Interface"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
@@ -210,19 +143,19 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1665 0 381")
-        (Scroll "400 20")
-        (Zoom "400")
+        (Placement "44 0 1 -1 -1 -8 -30 150 1815 150 531")
+        (Scroll "-496 0")
+        (Zoom "52")
         (Occurrence "/FPGA"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
       (Schematic "FPGA_XC7A100T")
-      (Page "5. FPGA_POWER"))
+      (Page "10.FPGA_BANK3 4"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1640 25 509")
-        (Scroll "286 153")
+        (Placement "44 0 1 -1 -1 -8 -30 125 1790 125 506")
+        (Scroll "261 604")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -232,8 +165,63 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1665 50 534")
-        (Scroll "-298 38")
+        (Placement "44 0 1 -1 -1 -8 -30 150 1765 150 634")
+        (Scroll "-434 0")
+        (Zoom "72")
+        (Occurrence "/Clk"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "CLK&RESET")
+      (Page "14.CLK&RESET"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1840 175 556")
+        (Scroll "0 199")
+        (Zoom "264")
+        (Occurrence "/FPGA"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "13.CFIG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1665 0 381")
+        (Scroll "0 341")
+        (Zoom "184")
+        (Occurrence "/FPGA"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "FPGA_XC7A100T")
+      (Page "11.FPGA_BANK5 6"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1690 25 406")
+        (Scroll "178 513")
+        (Zoom "138")
+        (Occurrence "/Interface"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "INTERFACE")
+      (Page "8. INTERFACE TO DETECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1715 50 431")
+        (Scroll "123 188")
+        (Zoom "200")
+        (Occurrence "/H_Voltage"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE.DSN")
+      (Schematic "HIGH_VOLTAGE")
+      (Page "4. HIGH_VOLTAGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1640 25 509")
+        (Scroll "-298 0")
         (Zoom "100")
         (Occurrence "/Interface"))
       (Path

@@ -3,175 +3,19 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Sun Jul 16 15:50:03 2017  |
+|                                                    Tue Jul 18 16:53:46 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  FIFOADR0     pins MOVED FROM this net (to net name listed on right)
-                                 U3.W17          3234.33 1957.07
-                                                                       USB_FD13
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  FIFOADR1     pins MOVED FROM this net (to net name listed on right)
-                                 U3.V17          3273.70 1957.07
-                                                                       USB_FD12
+  N36552       pins DELETED FROM this net (pin now not on any net)
+                                 U3.W5           3234.33 2429.52
                 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
                pins ADDED TO this existing net (pins not previously on any net)
-                                 U3.AA21         3155.59 1799.59
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_CLKOUT   pins MOVED FROM this net (to net name listed on right)
-                                 U3.U17          3313.07 1957.07
-                                                                       USB_FD14
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD0      pins MOVED FROM this net (to net name listed on right)
-                                 U3.U18          3313.07 1917.70
-                                                                        USB_FD7
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD1      pins MOVED FROM this net (to net name listed on right)
-                                 U3.R14          3391.81 2075.18
-                                                                      N15105665
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U3.T21          3352.44 1799.59
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD2      pins MOVED FROM this net (to net name listed on right)
-                                 U3.R18          3391.81 1917.70
-                                                                        USB_FD5
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD3      pins MOVED FROM this net (to net name listed on right)
-                                 U3.T18          3352.44 1917.70
-                                                                        USB_FD4
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD4      pins MOVED FROM this net (to net name listed on right)
-                                 U3.N17          3470.55 1957.07
-                                                                      N15105653
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD5      pins MOVED FROM this net (to net name listed on right)
-                                 U3.P17          3431.18 1957.07
-                                                                        USB_FD2
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD6      pins ADDED TO this existing net (pins not previously on any net)
-                                 U3.U21          3313.07 1799.59
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
+                                 U3.V4           3273.70 2468.89
 |------------------------------------------------------------------------------|
-|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Sun Jul 16 15:50:03 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  USB_FD7      pins MOVED FROM this net (to net name listed on right)
-                                 U3.R16          3391.81 1996.44
-                                                                       USB_FD15
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD8      pins MOVED FROM this net (to net name listed on right)
-                                 U3.N13          3470.55 2114.55
-                                                                      N15105605
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD9      pins MOVED FROM this net (to net name listed on right)
-                                 U3.N14          3470.55 2075.18
-                                                                      N15105575
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD10     pins MOVED FROM this net (to net name listed on right)
-                                 U3.P16          3431.18 1996.44
-                                                                        USB_FD3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD11     pins MOVED FROM this net (to net name listed on right)
-                                 U3.R17          3391.81 1957.07
-                                                                      N15105551
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD12     pins MOVED FROM this net (to net name listed on right)
-                                 U3.N15          3470.55 2035.81
-                                                                      N15105539
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD13     pins MOVED FROM this net (to net name listed on right)
-                                 U3.W21          3234.33 1799.59
-                                                                      USB_FLAGC
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD14     pins MOVED FROM this net (to net name listed on right)
-                                 U3.W22          3234.33 1760.22
-                                                                        USB_FD0
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FD15     pins MOVED FROM this net (to net name listed on right)
-                                 U3.AA20         3155.59 1838.96
-                                                                     USB_WAKEUP
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FLAGA    pins MOVED FROM this net (to net name listed on right)
-                                 U3.W19          3234.33 1878.33
-                                                                       USB_SLWR
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_FLAGC    pins MOVED FROM this net (to net name listed on right)
-                                 U3.Y18          3194.96 1917.70
-                                                                     USB_CLKOUT
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_IFCLK    pins MOVED FROM this net (to net name listed on right)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Sun Jul 16 15:50:03 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 U3.V20          3273.70 1838.96
-                                                                      USB_FLAGA
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U3.Y22          3194.96 1760.22
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_PKTEND   pins MOVED FROM this net (to net name listed on right)
-                                 U3.AB20         3116.22 1838.96
-                                                                        USB_FD8
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U3.AB21         3116.22 1799.59
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_SLOE     pins MOVED FROM this net (to net name listed on right)
-                                 U3.V18          3273.70 1917.70
-                                                                       FIFOADR0
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U3.Y21          3194.96 1799.59
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_SLRD     pins MOVED FROM this net (to net name listed on right)
-                                 U3.V19          3273.70 1878.33
-                                                                        USB_WU2
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U3.AB22         3116.22 1760.22
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_SLWR     pins MOVED FROM this net (to net name listed on right)
-                                 U3.AA19         3155.59 1878.33
-                                                                        USB_FD9
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_WAKEUP   pins MOVED FROM this net (to net name listed on right)
-                                 U3.AA18         3155.59 1917.70
-                                                                       USB_FD10
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB_WU2      pins MOVED FROM this net (to net name listed on right)
-                                 U3.AB18         3116.22 1917.70
-                                                                       USB_FD11
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Sun Jul 16 15:50:03 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|------------------------------------------------------------------------------|
-|       Nets changed          :      34                                        |
+|       Nets changed          :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:      34                                        |
+|   Total ECO changes reported:       2                                        |
 |------------------------------------------------------------------------------|

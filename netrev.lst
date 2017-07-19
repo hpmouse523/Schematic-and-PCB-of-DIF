@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : DIF_1V0.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Sun Jul 16 15:51:42 2017                      )
+(    Date/Time        : Tue Jul 18 17:16:45 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            '.'
 Old design name:             'E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd'
 New design name:             'E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd'
 
-CmdLine: netrev -$ -i E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro -y 1 -q netrev_constraint_report.xml E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/#Taaaaal09648.tmp
+CmdLine: netrev -$ -i E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro -y 1 -q netrev_constraint_report.xml E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/#Taaaaci06240.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro/pstchip.dat 
-   Finished reading E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro/pstchip.dat (00:00:00.06)
+   Finished reading E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro/pstchip.dat (00:00:00.05)
 Starting to read E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro/pstxprt.dat 
    Finished reading E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro/pstxprt.dat (00:00:00.02)
 Starting to read E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro/pstxnet.dat 
@@ -52,7 +52,7 @@ PADPATH =  E:/Work_File/FEE_DAQ_for_GEM/library2.0/
 ------ Summary Statistics ------
 
 
-netrev run on Jul 16 15:51:42 2017
+netrev run on Jul 18 17:16:45 2017
    DESIGN NAME : 'DETECTOR INTERFACE'
    PACKAGING ON Feb 15 2016 19:53:59
 
@@ -77,6 +77,6 @@ netrev run on Jul 16 15:51:42 2017
  No oversight detected
  No warning detected
 
-cpu time      0:01:05
-elapsed time  0:00:00
+cpu time      0:01:03
+elapsed time  0:00:01
 

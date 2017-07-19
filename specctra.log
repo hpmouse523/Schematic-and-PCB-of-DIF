@@ -1,0 +1,82 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Tue Jul 18 14:34:10 2017
+# 
+# Allegro PCB Router v16-6-112 made 2015/06/07 at 22:54:31
+# Running on: msy-pc, OS Version: WindowsNT 6.1.7601, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1\DIF_1V0.dsn
+# Batch File Name: pasde.do
+# Did File Name: E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/specctra.did
+# Current time = Tue Jul 18 14:34:10 2017
+# PCB E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1
+# Master Unit set up as: MIL 10000
+# PCB Limits xlo=-301.6500 ylo=-201.6500 xhi=6301.6500 yhi=4201.6500
+# Total 256 Images Consolidated.
+# Via 'VIA10-N' z=1, 4 xlo=-10.0000 ylo=-10.0000 xhi= 10.0000 yhi= 10.0000
+# Via 'VIA10CIR20-BGA' z=1, 4 xlo=-10.0000 ylo=-10.0000 xhi= 10.0000 yhi= 10.0000
+# Via BGA_VIA z=1, 4 xlo= -9.5000 ylo= -9.5000 xhi=  9.5000 yhi=  9.5000
+# Via VIA16CIR28 z=1, 4 xlo=-14.0000 ylo=-14.0000 xhi= 14.0000 yhi= 14.0000
+# Via VIA24CIR40 z=1, 4 xlo=-20.0000 ylo=-20.0000 xhi= 20.0000 yhi= 20.0000
+# Via VIA40CIR60 z=1, 4 xlo=-30.0000 ylo=-30.0000 xhi= 30.0000 yhi= 30.0000
+# Via VIA60 z=1, 4 xlo=-40.0000 ylo=-40.0000 xhi= 40.0000 yhi= 40.0000
+# Via VIA8_BGA_NEW z=1, 4 xlo= -6.0000 ylo= -6.0000 xhi=  6.0000 yhi=  6.0000
+# Via VIA_8 z=1, 4 xlo= -9.0000 ylo= -9.0000 xhi=  9.0000 yhi=  9.0000
+# 
+#    VIA        TOP          ART3          ART6        BOTTOM   
+# 
+#    TOP  ------------  VIA8_BGA_NEW  VIA8_BGA_NEW  VIA8_BGA_NEW
+#   ART3  VIA8_BGA_NEW  ------------  VIA8_BGA_NEW  VIA8_BGA_NEW
+#   ART6  VIA8_BGA_NEW  VIA8_BGA_NEW  ------------  VIA8_BGA_NEW
+# BOTTOM  VIA8_BGA_NEW  VIA8_BGA_NEW  VIA8_BGA_NEW  ------------
+# 
+# <<WARNING:>> Net 3.3V is defined as a signal net and contains 121 pins.
+# This is more pins than most signal nets contain.
+# Please verify whether net 3.3V should be a signal net or a power net.
+# Note that a signal net will be routed as starburst or daisy chain.
+# Wires Processed 969, Vias Processed 558
+# Using colormap in design file.
+# Layers Processed: Signal Layers 4
+# Layers Processed: Power Layers 4
+# Components Placed 465, Images Processed 322, Padstacks Processed 58
+# Nets Processed 415, Net Terminals 2273
+# PCB Area=24030009.000  EIC=138  Area/EIC=174130.500  SMDs=427
+# Total Pin Count: 1942
+# Net 0 uses split power plane.
+# Signal Connections Created 442
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0010 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0010 with offset 0.0000, Width= 6.0000, Clearance= 6.0000
+# Layer ART3 Vert Signal Wire Grid 0.0010 with offset 0.0000, Width= 6.0000, Clearance= 6.0000
+# Layer ART6 Horz Signal Wire Grid 0.0010 with offset 0.0000, Width= 6.0000, Clearance= 6.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0010 with offset 0.0000, Width= 6.0000, Clearance= 6.0000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1\DIF_1V0.dsn
+# Nets 415 Connections 1232 Unroutes 608
+# Signal Layers 4 Power Layers 4
+# Wire Junctions 122, at vias 119 Total Vias 558
+# Percent Connected   42.78
+# Manhattan Length 905190.0070 Horizontal 599049.5277 Vertical 306140.4793
+# Routed Length 231484.5470 Horizontal 139028.9530 Vertical 134049.4950
+# Ratio Actual / Manhattan   0.2557
+# Unconnected Length 661832.4270 Horizontal 469387.1500 Vertical 192445.2770
+# Total Conflicts: 187 (Cross: 0, Clear: 187, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1\DIF_1V0_rules.do ...
+# Nets N16778188 and N16778190 have been defined as a balanced pair.
+# Nets GTP0_TD+ and 'GTP0_TD-' have been defined as a balanced pair.
+# Nets 'GTP0_RD-' and GTP0_RD+ have been defined as a balanced pair.
+# Nets 'REFCLK-' and REFCLK+ have been defined as a balanced pair.
+# Nets N16073 and N16077 have been defined as a balanced pair.
+# Nets N16065 and N16069 have been defined as a balanced pair.
+# Nets N63573 and N65349 have been defined as a balanced pair.
+# Colormap Written to File _notify.std
