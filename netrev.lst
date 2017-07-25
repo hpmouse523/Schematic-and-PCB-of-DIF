@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : DIF_1V0.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Tue Jul 18 17:16:45 2017                      )
+(    Date/Time        : Mon Jul 24 18:59:03 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,7 +22,7 @@ Design Directory:            '.'
 Old design name:             'E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd'
 New design name:             'E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd'
 
-CmdLine: netrev -$ -i E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro -y 1 -q netrev_constraint_report.xml E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/#Taaaaci06240.tmp
+CmdLine: netrev -$ -i E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/allegro -y 1 -q netrev_constraint_report.xml E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/#Taaaabf07548.tmp
 
 ------ Preparing to read pst files ------
 
@@ -52,7 +52,7 @@ PADPATH =  E:/Work_File/FEE_DAQ_for_GEM/library2.0/
 ------ Summary Statistics ------
 
 
-netrev run on Jul 18 17:16:45 2017
+netrev run on Jul 24 18:59:03 2017
    DESIGN NAME : 'DETECTOR INTERFACE'
    PACKAGING ON Feb 15 2016 19:53:59
 
@@ -77,6 +77,6 @@ netrev run on Jul 18 17:16:45 2017
  No oversight detected
  No warning detected
 
-cpu time      0:01:03
+cpu time      0:01:10
 elapsed time  0:00:01
 

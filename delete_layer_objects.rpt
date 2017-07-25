@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Database Objects Preventing Layer From Being Deleted             )
+(                                                                     )
+(    Drawing          : DIF_1V0.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Jul 24 16:17:16 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Layer being deleted: ETCH/GND2
+
+    (5960.000 40.000) SHAPE(auto-generated): 0, Etch/Gnd2 
+    (40.000 40.000) DYNAMIC SHAPE: 0, Boundary/Gnd2 
+
+... 2 total objects preventing delete layer

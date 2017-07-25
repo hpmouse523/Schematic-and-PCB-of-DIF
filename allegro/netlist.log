@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Jul-18-2017 at 17:16:39 }
+{ Using PSTWRITER 16.6.0 d001Jul-24-2017 at 18:58:58 }
 
 #1 WARNING(ORCAP-36006): Part Name "74441-0010_LASER22-4816-M_74441-0010" is renamed to "74441-0010_LASER22-4816-M_74441".
 #2 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package CONN_1 , J16: INTERFACE, 8. INTERFACE TO DETECTOR (5.50, 4.80).

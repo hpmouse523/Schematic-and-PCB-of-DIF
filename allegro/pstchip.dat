@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jul-18-2017 at 17:16:42}
+{ Using PSTWRITER 16.6.0 d001Jul-24-2017 at 18:59:00}
 primitive 'T POINT A_GND40_3.3V';
   pin
     'TP':
@@ -39,7 +39,7 @@ primitive 'C NP_SC0603_0.1U';
     VALUE='0.1u';
   end_body;
 end_primitive;
-primitive 'CAP NP_SC0603_0.01UF';
+primitive 'CAP NP_SC0402_0.01UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -50,7 +50,7 @@ primitive 'CAP NP_SC0603_0.01UF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='SC0603';
+    JEDEC_TYPE='SC0402';
     VALUE='0.01uf';
   end_body;
 end_primitive;
@@ -114,7 +114,7 @@ primitive 'CAP NP_SC0603_0.1UF';
     VALUE='0.1uF';
   end_body;
 end_primitive;
-primitive 'CAP NP_SC0603_1UF';
+primitive 'CAP NP_SC0402_1UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -125,7 +125,7 @@ primitive 'CAP NP_SC0603_1UF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='SC0603';
+    JEDEC_TYPE='SC0402';
     VALUE='1uf';
   end_body;
 end_primitive;
@@ -157,6 +157,21 @@ primitive 'CAP NP_SC0603_10UF';
     PART_NAME='CAP NP';
     JEDEC_TYPE='SC0603';
     VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SC0603_1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='SC0603';
+    VALUE='1uF';
   end_body;
 end_primitive;
 primitive 'C_CT1206_10UF';
@@ -247,6 +262,21 @@ primitive 'C_SC0603_0.1U';
     PART_NAME='C';
     JEDEC_TYPE='SC0603';
     VALUE='0.1u';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SC0402_0.1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='SC0402';
+    VALUE='0.1uF';
   end_body;
 end_primitive;
 primitive 'C_SC0603_0.01U';
@@ -1210,21 +1240,6 @@ primitive 'RESISTOR_SR0603_100K';
     VALUE='100k';
   end_body;
 end_primitive;
-primitive 'R_SR0603_1.5K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='SR0603';
-    VALUE='1.5k';
-  end_body;
-end_primitive;
 primitive 'RESISTOR_SR0603_1.13K';
   pin
     '1':
@@ -1298,6 +1313,21 @@ primitive 'RESISTOR_SR0603_2.87K';
     PART_NAME='Resistor';
     JEDEC_TYPE='SR0603';
     VALUE='2.87k';
+  end_body;
+end_primitive;
+primitive 'R_SR0603_1.5K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='SR0603';
+    VALUE='1.5k';
   end_body;
 end_primitive;
 primitive 'R_SR0603_TEST';
