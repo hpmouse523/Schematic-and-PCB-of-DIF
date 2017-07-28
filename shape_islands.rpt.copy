@@ -1,0 +1,21 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : DIF_1V0.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Jul 27 16:37:22 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: <a href="xprobe:xy:2822.206 1667.677">(2822.206 1667.677)</a>  Net: 0
+</PRE>
+</BODY></HTML>
