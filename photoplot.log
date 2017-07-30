@@ -1,0 +1,1296 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : DIF_1V1.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sun Jul 30 13:49:13 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < adtop >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/adtop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (40.000 360.000)
+           ... using undefined line width of 5.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.000
+
+    WARNING: text composed 0 width line found at (172.000 206.000)
+           ... using undefined line width of 5.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00980                                  DARK 
+  CIRCLE     0.01970                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03700                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  SQUARE     0.11810                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.07000       0.000 NO     DARK 
+  RECTANGLE  0.01300     x 0.03300       0.000 NO     DARK 
+  RECTANGLE  0.01380     x 0.04130       0.000 NO     DARK 
+  RECTANGLE  0.01890     x 0.17716      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.01380       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.10236       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.12500      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
+  RECTANGLE  0.09800     x 0.08600       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.10630     x 0.04720      90.000 NO     DARK 
+
+     adtop created with warnings
+
+
+================================================================
+     PROCESSING FILM < adbottom >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/adbottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03700                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.07000      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.10236       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06500       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.09500       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
+
+     adbottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < art01 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/art01.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(3995.000 767.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(260.002 2689.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(290.998 1727.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(45.498 2263.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(132.998 2667.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(485.000 1727.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(979.998 1001.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1027.812 1464.410) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(995.000 2244.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(333.002 651.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(202.998 651.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(503.000 862.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(616.000 533.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3954.629 2287.892) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3957.943 2295.892) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3951.317 2295.894) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3946.254 2295.892) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3939.748 2295.890) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3931.938 2492.409) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3951.311 2492.407) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.01970                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03700                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  SQUARE     0.11810                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.07000       0.000 NO     DARK 
+  RECTANGLE  0.01300     x 0.03300       0.000 NO     DARK 
+  RECTANGLE  0.01380     x 0.04130       0.000 NO     DARK 
+  RECTANGLE  0.01890     x 0.17716      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.01380       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.10236       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.12500      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
+  RECTANGLE  0.09800     x 0.08600       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.10630     x 0.04720      90.000 NO     DARK 
+
+     art01 created with warnings
+
+
+================================================================
+     PROCESSING FILM < art03 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/art03.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03700                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  RECTANGLE  0.03937     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.10236       0.000 NO     DARK 
+
+     art03 created with warnings
+
+
+================================================================
+     PROCESSING FILM < drill >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/drill.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     drill created with warnings
+
+
+================================================================
+     PROCESSING FILM < pastebottom >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/pastebottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  RECTANGLE  0.02500     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.07000      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.11300       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06500       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.09500       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
+
+     pastebottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < pastetop >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/pastetop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.01970                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  SQUARE     0.11810                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.07000       0.000 NO     DARK 
+  RECTANGLE  0.01300     x 0.03300       0.000 NO     DARK 
+  RECTANGLE  0.01380     x 0.04130       0.000 NO     DARK 
+  RECTANGLE  0.01890     x 0.17716      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.01380       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.11300       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.12500      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
+  RECTANGLE  0.09800     x 0.08600       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.10630     x 0.04720      90.000 NO     DARK 
+
+     pastetop created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane04 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/plane04.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+    WARNING: Segment with same start and end points at
+	(552.002 3462.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2915.000 2651.986) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(315.000 3462.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.05600                                  CLEAR
+  CIRCLE     0.06000                                  CLEAR
+  CIRCLE     0.06200                                  CLEAR
+  CIRCLE     0.07480                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.09500                                  CLEAR
+  CIRCLE     0.11000                                  CLEAR
+  CIRCLE     0.13000                                  CLEAR
+  CIRCLE     0.36000                                  CLEAR
+  RECTANGLE  0.04724     x 0.12000       0.000 NO     CLEAR
+  RECTANGLE  0.05500     x 0.09449       0.000 NO     CLEAR
+  FLASH SYM  TR100X130X30                0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  95                          0.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                  0.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                  0.000 NO     CLEAR
+  FLASH SYM  TR40X56X16                  0.000 NO     CLEAR
+  FLASH SYM  80                         90.000 NO     CLEAR
+  FLASH SYM  85                         90.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                 90.000 NO     CLEAR
+  FLASH SYM  PAD5                       90.000 NO     CLEAR
+  FLASH SYM  FLASH_45_60                90.000 YES    CLEAR
+  FLASH SYM  TR28X40X12                180.000 NO     CLEAR
+  FLASH SYM  80                        270.000 YES    CLEAR
+  FLASH SYM  95                        270.000 NO     CLEAR
+  FLASH SYM  100                       270.000 NO     CLEAR
+  FLASH SYM  80                        270.000 NO     CLEAR
+
+     plane04 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane05 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/plane05.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.05600                                  CLEAR
+  CIRCLE     0.06000                                  CLEAR
+  CIRCLE     0.06200                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.09500                                  CLEAR
+  CIRCLE     0.11000                                  CLEAR
+  CIRCLE     0.13000                                  CLEAR
+  RECTANGLE  0.04724     x 0.12000       0.000 NO     CLEAR
+  RECTANGLE  0.05500     x 0.09449       0.000 NO     CLEAR
+  FLASH SYM  TR100X130X30                0.000 NO     CLEAR
+  FLASH SYM  95                          0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                  0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  TR40X56X16                  0.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                  0.000 NO     CLEAR
+  FLASH SYM  85                         90.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                 90.000 NO     CLEAR
+  FLASH SYM  80                         90.000 NO     CLEAR
+  FLASH SYM  CIR63_80                   90.000 NO     CLEAR
+  FLASH SYM  PAD5                       90.000 NO     CLEAR
+  FLASH SYM  FLASH_45_60                90.000 YES    CLEAR
+  FLASH SYM  TR28X40X12                180.000 NO     CLEAR
+  FLASH SYM  80                        270.000 YES    CLEAR
+  FLASH SYM  95                        270.000 NO     CLEAR
+  FLASH SYM  80                        270.000 NO     CLEAR
+  FLASH SYM  100                       270.000 NO     CLEAR
+
+     plane05 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane06 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/plane06.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.05600                                  CLEAR
+  CIRCLE     0.06000                                  CLEAR
+  CIRCLE     0.06200                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.08500                                  CLEAR
+  CIRCLE     0.09500                                  CLEAR
+  CIRCLE     0.11000                                  CLEAR
+  CIRCLE     0.11600                                  CLEAR
+  CIRCLE     0.13000                                  CLEAR
+  CIRCLE     0.36000                                  CLEAR
+  RECTANGLE  0.04724     x 0.12000       0.000 NO     CLEAR
+  RECTANGLE  0.05500     x 0.09449       0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  TR100X130X30                0.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                  0.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                  0.000 NO     CLEAR
+  FLASH SYM  TR40X56X16                  0.000 NO     CLEAR
+  FLASH SYM  FLASH_45_60                90.000 YES    CLEAR
+  FLASH SYM  CIR63_80                   90.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                180.000 NO     CLEAR
+  FLASH SYM  80                        270.000 YES    CLEAR
+  FLASH SYM  80                        270.000 NO     CLEAR
+
+     plane06 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane07 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/plane07.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.05600                                  CLEAR
+  CIRCLE     0.06000                                  CLEAR
+  CIRCLE     0.06200                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.09500                                  CLEAR
+  CIRCLE     0.11000                                  CLEAR
+  CIRCLE     0.13000                                  CLEAR
+  RECTANGLE  0.04724     x 0.12000       0.000 NO     CLEAR
+  RECTANGLE  0.05500     x 0.09449       0.000 NO     CLEAR
+  FLASH SYM  TR100X130X30                0.000 NO     CLEAR
+  FLASH SYM  95                          0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                  0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  TR40X56X16                  0.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                  0.000 NO     CLEAR
+  FLASH SYM  85                         90.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                 90.000 NO     CLEAR
+  FLASH SYM  80                         90.000 NO     CLEAR
+  FLASH SYM  CIR63_80                   90.000 NO     CLEAR
+  FLASH SYM  PAD5                       90.000 NO     CLEAR
+  FLASH SYM  FLASH_45_60                90.000 YES    CLEAR
+  FLASH SYM  TR28X40X12                180.000 NO     CLEAR
+  FLASH SYM  80                        270.000 YES    CLEAR
+  FLASH SYM  95                        270.000 NO     CLEAR
+  FLASH SYM  80                        270.000 NO     CLEAR
+  FLASH SYM  100                       270.000 NO     CLEAR
+
+     plane07 created with warnings
+
+
+================================================================
+     PROCESSING FILM < silkbottom >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/silkbottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     silkbottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < silktop >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/silktop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00980                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+
+     silktop created with warnings
+
+
+================================================================
+     PROCESSING FILM < soldbottom >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/soldbottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00020                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.04700                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10500                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.09000                     0.000 NO     DARK 
+  SQUARE     0.12000                     0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.03300     x 0.08000      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.08661       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.11024       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07500       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07500      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.10500       0.000 NO     DARK 
+  RECTANGLE  0.07300     x 0.06900      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.09000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.09000     x 0.10000      90.000 NO     DARK 
+
+     soldbottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < soldtop >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/soldtop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00020                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02360                                  DARK 
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.04700                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10500                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.03350                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.09000                     0.000 NO     DARK 
+  SQUARE     0.11810                     0.000 NO     DARK 
+  SQUARE     0.12000                     0.000 NO     DARK 
+  RECTANGLE  0.01380     x 0.04130       0.000 NO     DARK 
+  RECTANGLE  0.01500     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.02677     x 0.18504      90.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.04800      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300      90.000 NO     DARK 
+  RECTANGLE  0.04130     x 0.01380       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.08661       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06000      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.11024       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.13500      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.09000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.09000     x 0.10000      90.000 NO     DARK 
+  RECTANGLE  0.09800     x 0.08600       0.000 NO     DARK 
+  RECTANGLE  0.11000     x 0.02800      90.000 NO     DARK 
+  RECTANGLE  0.11020     x 0.05120      90.000 NO     DARK 
+
+     soldtop created with warnings
+
+
+================================================================
+     PROCESSING FILM < art10 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/art10.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(1258.002 997.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1669.000 676.498) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1669.002 751.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.03700                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02000      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.07000      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.10236       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06500       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06500      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.09500       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.08000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
+
+     art10 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane08 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/plane08.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+    WARNING: Segment with same start and end points at
+	(3238.002 2216.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3130.998 953.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4218.002 2830.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.05600                                  CLEAR
+  CIRCLE     0.06000                                  CLEAR
+  CIRCLE     0.06200                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.09500                                  CLEAR
+  CIRCLE     0.11000                                  CLEAR
+  CIRCLE     0.13000                                  CLEAR
+  CIRCLE     0.36000                                  CLEAR
+  RECTANGLE  0.04724     x 0.12000       0.000 NO     CLEAR
+  RECTANGLE  0.05500     x 0.09449       0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  TR100X130X30                0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  95                          0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                  0.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                  0.000 NO     CLEAR
+  FLASH SYM  85                         90.000 NO     CLEAR
+  FLASH SYM  CIR63_80                   90.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                 90.000 NO     CLEAR
+  FLASH SYM  80                         90.000 NO     CLEAR
+  FLASH SYM  PAD5                       90.000 NO     CLEAR
+  FLASH SYM  FLASH_45_60                90.000 YES    CLEAR
+  FLASH SYM  TR28X40X12                180.000 NO     CLEAR
+  FLASH SYM  80                        270.000 YES    CLEAR
+  FLASH SYM  95                        270.000 NO     CLEAR
+
+     plane08 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane02 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/plane02.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.05600                                  CLEAR
+  CIRCLE     0.06000                                  CLEAR
+  CIRCLE     0.06200                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.09500                                  CLEAR
+  CIRCLE     0.11000                                  CLEAR
+  CIRCLE     0.13000                                  CLEAR
+  RECTANGLE  0.04724     x 0.12000       0.000 NO     CLEAR
+  RECTANGLE  0.05500     x 0.09449       0.000 NO     CLEAR
+  FLASH SYM  TR100X130X30                0.000 NO     CLEAR
+  FLASH SYM  95                          0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                  0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  TR40X56X16                  0.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                  0.000 NO     CLEAR
+  FLASH SYM  85                         90.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                 90.000 NO     CLEAR
+  FLASH SYM  80                         90.000 NO     CLEAR
+  FLASH SYM  CIR63_80                   90.000 NO     CLEAR
+  FLASH SYM  PAD5                       90.000 NO     CLEAR
+  FLASH SYM  FLASH_45_60                90.000 YES    CLEAR
+  FLASH SYM  TR28X40X12                180.000 NO     CLEAR
+  FLASH SYM  80                        270.000 YES    CLEAR
+  FLASH SYM  95                        270.000 NO     CLEAR
+  FLASH SYM  80                        270.000 NO     CLEAR
+  FLASH SYM  100                       270.000 NO     CLEAR
+
+     plane02 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane09 >
+     TO FILE < E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/plane09.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.05600                                  CLEAR
+  CIRCLE     0.06000                                  CLEAR
+  CIRCLE     0.06200                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.09500                                  CLEAR
+  CIRCLE     0.11000                                  CLEAR
+  CIRCLE     0.13000                                  CLEAR
+  RECTANGLE  0.04724     x 0.12000       0.000 NO     CLEAR
+  RECTANGLE  0.05500     x 0.09449       0.000 NO     CLEAR
+  FLASH SYM  TR100X130X30                0.000 NO     CLEAR
+  FLASH SYM  95                          0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                  0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  TR40X56X16                  0.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                  0.000 NO     CLEAR
+  FLASH SYM  85                         90.000 NO     CLEAR
+  FLASH SYM  TR60X80X20                 90.000 NO     CLEAR
+  FLASH SYM  80                         90.000 NO     CLEAR
+  FLASH SYM  CIR63_80                   90.000 NO     CLEAR
+  FLASH SYM  PAD5                       90.000 NO     CLEAR
+  FLASH SYM  FLASH_45_60                90.000 YES    CLEAR
+  FLASH SYM  TR28X40X12                180.000 NO     CLEAR
+  FLASH SYM  80                        270.000 YES    CLEAR
+  FLASH SYM  95                        270.000 NO     CLEAR
+  FLASH SYM  80                        270.000 NO     CLEAR
+  FLASH SYM  100                       270.000 NO     CLEAR
+
+     plane09 created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        adtop created with warnings
+        adbottom created with warnings
+        art01 created with warnings
+        art03 created with warnings
+        drill created with warnings
+        pastebottom created with warnings
+        pastetop created with warnings
+        plane04 created with warnings
+        plane05 created with warnings
+        plane06 created with warnings
+        plane07 created with warnings
+        silkbottom created with warnings
+        silktop created with warnings
+        soldbottom created with warnings
+        soldtop created with warnings
+        art10 created with warnings
+        plane08 created with warnings
+        plane02 created with warnings
+        plane09 created with warnings
+
+ ARTWORK had warnings

@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : DIF_1V1.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sun Jul 30 13:47:50 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'C:/Cadence16.6/Cadence/Cadence_SPB_16.6-2015/share/pcb/text/nclegend/default-mil.dlt' ...
+End of drill legend template file processing.
+
+Begin processing drill holes.
+Warning : Hole 8.000-0.000-C-P-0.000-0.000 uses multiple drill figures.
+End processing drill holes.

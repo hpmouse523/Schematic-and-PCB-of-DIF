@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : DIF_1V0.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Fri Jul 28 16:27:43 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (727.000 1156.000) on net 0.
+WARNING Deleted redundant via at (276.000 3054.000) on net 0.
+WARNING Deleted redundant via at (276.000 3054.000) on net 0.
+
+WARNING: The following vias/pins have connections using non-plated padstacks
+         This may cause issues with your manufacturing process.
+
+  Pin/Via         Padstack                                   Location
+  -------------------------------------------------------------------------
+  DU1.22          PAD70CIR70U                              (5312.000 1648.000)
+  DU1.21          PAD70CIR70U                              (4934.000 1648.000)
+
+
+12 warnings, 0 errors detected, 0 errors could be fixed.

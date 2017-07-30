@@ -3,19 +3,51 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Mon Jul 24 18:59:04 2017  |
+|                                                    Fri Jul 28 12:42:06 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND_POWER    pins MOVED FROM this net (to net name listed on right)
-                                 C104.2          636.000 3552.00
-                                                                              0
-                                 C105.2          516.000 3117.00
-                                                                              0
+  5.0V_HV      pins ADDED TO this existing net (pins not previously on any net)
+                                 R195.1                         
+                                 R196.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IN_TX_HV     pins ADDED TO this existing net (pins not previously on any net)
+                                 R196.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_RX_HV    pins ADDED TO this existing net (pins not previously on any net)
+                                 R195.2                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       2                                        |
+|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
+|                                                    Fri Jul 28 12:42:06 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R195                R_SR0603_1K           
+ R196                R_SR0603_1K           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
+|                                                    Fri Jul 28 12:42:06 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R195.2                         PRIM_FILE      .\pstchip.dat
+ R196.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :       4                                        |
+|       Components added      :       2                                        |
+|       Slot property added   :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:       2                                        |
+|   Total ECO changes reported:       8                                        |
 |------------------------------------------------------------------------------|

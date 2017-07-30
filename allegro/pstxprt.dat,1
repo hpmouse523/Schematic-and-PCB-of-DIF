@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jul-24-2017 at 14:53:49 }
+{ Using PSTWRITER 16.6.0 d001Jul-24-2017 at 17:12:16 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DETECTOR INTERFACE';
@@ -1038,18 +1038,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C35 'CAP NP_SC0603_4.7UF':
- SIGNAL_MODEL='DEFAULT_CAPACITOR_4.7e+06pF_1_2';
-
-SECTION_NUMBER 1
- '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):FPGA@DETECTOR INTERFACE.FPGA_XC7A100T(SCH_1):INS17430@DISCRETE.CAP NP.NORMAL(CHIPS)':
- C_PATH='@\detector interface\.schematic_dif(sch_1):fpga@\detector interface\.fpga_xc7a100t(sch_1):ins17430@discrete.\cap np.normal\(chips)',
- P_PATH='@\detector interface\.schematic_dif(sch_1):page1_fpga@\detector interface\.fpga_xc7a100t(sch_1):page5_ins17430@discrete.\cap np.normal\(chips)',
- SIGNAL_MODEL='DEFAULT_CAPACITOR_4.7e+06pF_1_2',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C36 'CAP NP_SC0402_0.1UF':
  SIGNAL_MODEL='DEFAULT_CAPACITOR_100000pF_1_2';
 
@@ -1146,18 +1134,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C43 'CAP NP_SC0603_4.7UF':
- SIGNAL_MODEL='DEFAULT_CAPACITOR_4.7e+06pF_1_2';
-
-SECTION_NUMBER 1
- '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):FPGA@DETECTOR INTERFACE.FPGA_XC7A100T(SCH_1):INS17658@DISCRETE.CAP NP.NORMAL(CHIPS)':
- C_PATH='@\detector interface\.schematic_dif(sch_1):fpga@\detector interface\.fpga_xc7a100t(sch_1):ins17658@discrete.\cap np.normal\(chips)',
- P_PATH='@\detector interface\.schematic_dif(sch_1):page1_fpga@\detector interface\.fpga_xc7a100t(sch_1):page5_ins17658@discrete.\cap np.normal\(chips)',
- SIGNAL_MODEL='DEFAULT_CAPACITOR_4.7e+06pF_1_2',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C44 'CAP NP_SC0402_0.1UF':
  SIGNAL_MODEL='DEFAULT_CAPACITOR_100000pF_1_2';
 
@@ -1166,18 +1142,6 @@ SECTION_NUMBER 1
  C_PATH='@\detector interface\.schematic_dif(sch_1):fpga@\detector interface\.fpga_xc7a100t(sch_1):ins17674@discrete.\cap np.normal\(chips)',
  P_PATH='@\detector interface\.schematic_dif(sch_1):page1_fpga@\detector interface\.fpga_xc7a100t(sch_1):page5_ins17674@discrete.\cap np.normal\(chips)',
  SIGNAL_MODEL='DEFAULT_CAPACITOR_100000pF_1_2',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C45 'CAP NP_SC0603_4.7UF':
- SIGNAL_MODEL='DEFAULT_CAPACITOR_4.7e+06pF_1_2';
-
-SECTION_NUMBER 1
- '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):FPGA@DETECTOR INTERFACE.FPGA_XC7A100T(SCH_1):INS17240@DISCRETE.CAP NP.NORMAL(CHIPS)':
- C_PATH='@\detector interface\.schematic_dif(sch_1):fpga@\detector interface\.fpga_xc7a100t(sch_1):ins17240@discrete.\cap np.normal\(chips)',
- P_PATH='@\detector interface\.schematic_dif(sch_1):page1_fpga@\detector interface\.fpga_xc7a100t(sch_1):page5_ins17240@discrete.\cap np.normal\(chips)',
- SIGNAL_MODEL='DEFAULT_CAPACITOR_4.7e+06pF_1_2',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
