@@ -2,9 +2,9 @@
 (                                                                     )
 (    DBDOCTOR                                                         )
 (                                                                     )
-(    Drawing          : DIF_1V1.brd                                   )
+(    Drawing          : DIF_1V2.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Sun Jul 30 13:49:12 2017                      )
+(    Date/Time        : Mon Jul 31 20:16:36 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,6 +19,4 @@ WARNING: The following vias/pins have connections using non-plated padstacks
   DU1.21          PAD70CIR70U                              (4934.000 1648.000)
 
 
-WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
-
-3 warnings, 0 errors detected, 0 errors could be fixed.
+2 warnings, 0 errors detected, 0 errors could be fixed.

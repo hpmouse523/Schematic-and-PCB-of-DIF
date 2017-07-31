@@ -2,18 +2,17 @@
 (                                                                     )
 (    Shape Island Report                                              )
 (                                                                     )
-(    Drawing          : DIF_1V0.brd                                   )
+(    Drawing          : DIF_1V2.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Thu Jul 27 16:34:50 2017                      )
+(    Date/Time        : Mon Jul 31 16:32:32 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  Total islands on design: 2
+  Total islands on design: 1
 
 
   <<<  ETCH  >>>
 
-    Layer = BOTTOM
-	Point on shape: (2794.828 1218.358)  Net: 0
-	Point on shape: (2822.206 1667.677)  Net: 0
+    Layer = TOP
+	Point on shape: (1289.002 607.000)  Net: 0

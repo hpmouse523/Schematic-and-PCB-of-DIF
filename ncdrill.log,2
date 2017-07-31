@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : DIF_1V0.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Fri Jul 28 15:05:56 2017                      )
+(    Date/Time        : Fri Jul 28 17:12:45 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -50,7 +50,7 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.   8.0000    0.0000/  0.0000      PLATED       1207
+            1.   8.0000    0.0000/  0.0000      PLATED       1199
             2.  16.0000    0.0000/  0.0000      PLATED         26
             3.  24.0000    0.0000/  0.0000      PLATED          4
             4.  25.0000    0.0000/  0.0000      PLATED         16
@@ -67,7 +67,7 @@
            15.  40.0000    0.0000/  0.0000  NON_PLATED          9
            16.  70.0000    0.0000/  0.0000  NON_PLATED          2
 
-     ---- Total holes:                                       1384
+     ---- Total holes:                                       1376
 
-     ---- Total head travel:              73.26 feet (22.33 meters)
+     ---- Total head travel:              73.30 feet (22.34 meters)
 
