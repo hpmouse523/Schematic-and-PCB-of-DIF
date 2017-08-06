@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jul-31-2017 at 15:23:30}
+{ Using PSTWRITER 16.6.0 d001Aug-01-2017 at 12:02:35}
 primitive 'T POINT A_GND40_3.3V';
   pin
     'TP':

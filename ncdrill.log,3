@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : DIF_1V1.brd                                   )
+(    Drawing          : DIF_1V2.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Sun Jul 30 13:47:32 2017                      )
+(    Date/Time        : Mon Jul 31 20:11:17 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -45,12 +45,12 @@
 
 
 
-     'DIF_1V1-1-10.drl' created for holes connecting TOP and BOTTOM
+     'DIF_1V2-1-10.drl' created for holes connecting TOP and BOTTOM
      --------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.   8.0000    0.0000/  0.0000      PLATED       1199
+            1.   8.0000    0.0000/  0.0000      PLATED       1205
             2.  16.0000    0.0000/  0.0000      PLATED         26
             3.  24.0000    0.0000/  0.0000      PLATED          4
             4.  25.0000    0.0000/  0.0000      PLATED         16
@@ -67,7 +67,7 @@
            15.  40.0000    0.0000/  0.0000  NON_PLATED          9
            16.  70.0000    0.0000/  0.0000  NON_PLATED          2
 
-     ---- Total holes:                                       1376
+     ---- Total holes:                                       1382
 
-     ---- Total head travel:              73.30 feet (22.34 meters)
+     ---- Total head travel:              74.53 feet (22.72 meters)
 

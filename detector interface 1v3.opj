@@ -1,0 +1,91 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\detector interface 1v3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn"
+         "SCHEMATIC_DIF")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn"
+         "CLK&RESET")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn"
+         "FPGA_XC7A100T")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn"
+         "HIGH_VOLTAGE")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn"
+         "INTERFACE")
+      (Path "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn"
+         "POWER")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\detector interface 1v3.dsn"
+         "POWER" "3. POWER_DETECTOR"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 442"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1665 50 534")
+        (Scroll "0 0")
+        (Zoom "200")
+        (Occurrence "/Interface"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE 1V3.DSN")
+      (Schematic "INTERFACE")
+      (Page "15.USB_TypeC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1661 50 519")
+        (Scroll "0 238")
+        (Zoom "174")
+        (Occurrence "/H_Voltage"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE 1V3.DSN")
+      (Schematic "HIGH_VOLTAGE")
+      (Page "4. HIGH_VOLTAGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1661 50 519")
+        (Scroll "-296 0")
+        (Zoom "100")
+        (Occurrence "/POWER"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AND-PCB-OF-DIF_V1.1\DETECTOR INTERFACE 1V3.DSN")
+      (Schematic "POWER")
+      (Page "3. POWER_DETECTOR")))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "Msy"))

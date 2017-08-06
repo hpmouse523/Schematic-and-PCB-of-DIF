@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jul-24-2017 at 18:59:00 }
+{ Using PSTWRITER 16.6.0 d001Jul-28-2017 at 12:42:02 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DETECTOR INTERFACE';
@@ -3562,6 +3562,26 @@ SECTION_NUMBER 1
  '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):POWER@DETECTOR INTERFACE.POWER(SCH_1):INS16778831@MY_SCH_LIBRARY.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@\detector interface\.schematic_dif(sch_1):power@\detector interface\.power(sch_1):ins16778831@my_sch_library.\resistor.normal\(chips)',
  P_PATH='@\detector interface\.schematic_dif(sch_1):page1_power@\detector interface\.power(sch_1):page14_ins16778831@my_sch_library.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R195 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):H_VOLTAGE@DETECTOR INTERFACE.HIGH_VOLTAGE(SCH_1):INS10027@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\detector interface\.schematic_dif(sch_1):h_voltage@\detector interface\.high_voltage(sch_1):ins10027@discrete.\r.normal\(chips)',
+ P_PATH='@\detector interface\.schematic_dif(sch_1):page1_h_voltage@\detector interface\.high_voltage(sch_1):page9_ins10027@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R196 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@DETECTOR INTERFACE.SCHEMATIC_DIF(SCH_1):H_VOLTAGE@DETECTOR INTERFACE.HIGH_VOLTAGE(SCH_1):INS10053@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\detector interface\.schematic_dif(sch_1):h_voltage@\detector interface\.high_voltage(sch_1):ins10053@discrete.\r.normal\(chips)',
+ P_PATH='@\detector interface\.schematic_dif(sch_1):page1_h_voltage@\detector interface\.high_voltage(sch_1):page9_ins10053@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

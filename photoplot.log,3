@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : DIF_1V2.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Mon Jul 31 20:12:39 2017                      )
+(    Date/Time        : Mon Jul 31 20:16:37 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,17 +13,23 @@
 
 
 
-Results from parameter file ...
-    DEVICE-TYPE           GERBER_RS274X
-    OUTPUT-UNITS          INCHES
-    FILM-SIZE             2400000 1600000
-    FORMAT                2.5
-    ABORT-ON-ERROR        NO
-    SCALE                 1
-    SUPPRESS-LEAD-ZEROES  YES
-    SUPPRESS-TRAIL-ZEROES NO
-    SUPPRESS-EQUAL        YES
-    UNDEF-APT-CONT        NO
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
 
 
 
@@ -183,7 +189,7 @@ Results from parameter file ...
   RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
   RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
 
-     adbottom created.
+     adbottom created with warnings
 
 
 ================================================================
@@ -402,7 +408,7 @@ Results from parameter file ...
   RECTANGLE  0.03937     x 0.08268       0.000 NO     DARK 
   RECTANGLE  0.04331     x 0.10236       0.000 NO     DARK 
 
-     art03 created.
+     art03 created with warnings
 
 
 ================================================================
@@ -431,7 +437,7 @@ Results from parameter file ...
   CIRCLE     0.00500                                  DARK 
   CIRCLE     0.00800                                  DARK 
 
-     drill created.
+     drill created with warnings
 
 
 ================================================================
@@ -477,7 +483,7 @@ Results from parameter file ...
   RECTANGLE  0.08000     x 0.09000       0.000 NO     DARK 
   RECTANGLE  0.08000     x 0.09000      90.000 NO     DARK 
 
-     pastebottom created.
+     pastebottom created with warnings
 
 
 ================================================================
@@ -532,7 +538,7 @@ Results from parameter file ...
   RECTANGLE  0.10000     x 0.02000      90.000 NO     DARK 
   RECTANGLE  0.10630     x 0.04720      90.000 NO     DARK 
 
-     pastetop created.
+     pastetop created with warnings
 
 
 ================================================================
@@ -819,7 +825,7 @@ negative shape outline will be determined by Board Outline
   CIRCLE     0.00500                                  DARK 
   CIRCLE     0.00800                                  DARK 
 
-     silkbottom created.
+     silkbottom created with warnings
 
 
 ================================================================
@@ -857,7 +863,7 @@ negative shape outline will be determined by Board Outline
   CIRCLE     0.00980                                  DARK 
   CIRCLE     0.03150                                  DARK 
 
-     silktop created.
+     silktop created with warnings
 
 
 ================================================================
@@ -920,7 +926,7 @@ negative shape outline will be determined by Board Outline
   RECTANGLE  0.09000     x 0.10000       0.000 NO     DARK 
   RECTANGLE  0.09000     x 0.10000      90.000 NO     DARK 
 
-     soldbottom created.
+     soldbottom created with warnings
 
 
 ================================================================
@@ -991,7 +997,7 @@ negative shape outline will be determined by Board Outline
   RECTANGLE  0.11000     x 0.02800      90.000 NO     DARK 
   RECTANGLE  0.11020     x 0.05120      90.000 NO     DARK 
 
-     soldtop created.
+     soldtop created with warnings
 
 
 ================================================================
@@ -1277,20 +1283,20 @@ negative shape outline will be determined by Board Outline
 ------------------------------------------------------
  SUMMARY:
         adtop created with warnings
-        adbottom created.
+        adbottom created with warnings
         art01 created with warnings
-        art03 created.
-        drill created.
-        pastebottom created.
-        pastetop created.
+        art03 created with warnings
+        drill created with warnings
+        pastebottom created with warnings
+        pastetop created with warnings
         plane04 created with warnings
         plane05 created with warnings
         plane06 created with warnings
         plane07 created with warnings
-        silkbottom created.
-        silktop created.
-        soldbottom created.
-        soldtop created.
+        silkbottom created with warnings
+        silktop created with warnings
+        soldbottom created with warnings
+        soldtop created with warnings
         art10 created with warnings
         plane08 created with warnings
         plane02 created with warnings

@@ -2,33 +2,34 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : DIF_1V1.brd                                   )
+(    Drawing          : DIF_1V2.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Sun Jul 30 13:49:13 2017                      )
+(    Date/Time        : Mon Jul 31 20:11:35 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
-
-
- ******************************************
- WARNING: DRC OUT OF DATE on this layout.
- ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
 
 
-Results from parameter file ...
-    DEVICE-TYPE           GERBER_RS274X
-    OUTPUT-UNITS          INCHES
-    FILM-SIZE             2400000 1600000
-    FORMAT                2.5
-    ABORT-ON-ERROR        NO
-    SCALE                 1
-    SUPPRESS-LEAD-ZEROES  YES
-    SUPPRESS-TRAIL-ZEROES NO
-    SUPPRESS-EQUAL        YES
-    UNDEF-APT-CONT        NO
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
 
 
 
@@ -208,15 +209,31 @@ Results from parameter file ...
   Draw holes only                     NO
 
     WARNING: Segment with same start and end points at
-	(3995.000 767.002) will be ignored. Increasing output
+	(721.002 1671.002) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
-	(260.002 2689.000) will be ignored. Increasing output
+	(933.002 2705.000) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
-	(290.998 1727.998) will be ignored. Increasing output
+	(535.002 2671.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3467.000 149.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3994.998 686.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4659.000 686.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(143.998 2372.998) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
@@ -224,23 +241,19 @@ Results from parameter file ...
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
-	(132.998 2667.000) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
-
-    WARNING: Segment with same start and end points at
-	(485.000 1727.998) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
-
-    WARNING: Segment with same start and end points at
-	(979.998 1001.998) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
-
-    WARNING: Segment with same start and end points at
-	(1027.812 1464.410) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
-
-    WARNING: Segment with same start and end points at
 	(995.000 2244.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1559.000 692.470) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(635.998 242.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(503.000 862.502) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at
@@ -249,10 +262,6 @@ Results from parameter file ...
 
     WARNING: Segment with same start and end points at
 	(202.998 651.002) will be ignored. Increasing output
-	accuracy may allow segment to be generated.
-
-    WARNING: Segment with same start and end points at
-	(503.000 862.502) will be ignored. Increasing output
 	accuracy may allow segment to be generated.
 
     WARNING: Segment with same start and end points at

@@ -2,52 +2,61 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Fri Jul 28 12:42:06 2017  |
+|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V3.brd                 |
+|                                                    Tue Aug 01 12:03:14 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  5.0V_HV      pins ADDED TO this existing net (pins not previously on any net)
-                                 R195.1                         
-                                 R196.1                         
+  IN_DATA_1+   pins DELETED FROM this net (pin now not on any net)
+                                 U8.11           1393.42 285.000
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  IN_TX_HV     pins ADDED TO this existing net (pins not previously on any net)
-                                 R196.2                         
+  IN_DATA_1-   pins DELETED FROM this net (pin now not on any net)
+                                 U8.10           1373.74 285.000
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  OUT_RX_HV    pins ADDED TO this existing net (pins not previously on any net)
-                                 R195.2                         
+  IN_DATA_5+   pins DELETED FROM this net (pin now not on any net)
+                                 U9.11           2050.42 285.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IN_DATA_5-   pins DELETED FROM this net (pin now not on any net)
+                                 U9.10           2030.74 285.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IN_DATA_6+   pins DELETED FROM this net (pin now not on any net)
+                                 U9.18           1961.84 235.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IN_DATA_6-   pins DELETED FROM this net (pin now not on any net)
+                                 U9.19           1942.15 235.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_DATA_2+  pins DELETED FROM this net (pin now not on any net)
+                                 U8.14           1383.58 235.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_DATA_2-  pins DELETED FROM this net (pin now not on any net)
+                                 U8.15           1363.89 235.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_DATA_3+  pins DELETED FROM this net (pin now not on any net)
+                                 U8.18           1304.84 235.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_DATA_3-  pins DELETED FROM this net (pin now not on any net)
+                                 U8.19           1285.15 235.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_DATA_4+  pins DELETED FROM this net (pin now not on any net)
+                                 U9.14           2040.58 235.000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT_DATA_4-  pins DELETED FROM this net (pin now not on any net)
+                                 U9.15           2020.89 235.000
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Fri Jul 28 12:42:06 2017  |
+|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V3.brd                 |
+|                                                    Tue Aug 01 12:03:14 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R195                R_SR0603_1K           
- R196                R_SR0603_1K           
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V0.brd                 |
-|                                                    Fri Jul 28 12:42:06 2017  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R195.2                         PRIM_FILE      .\pstchip.dat
- R196.2                         PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|       Nets changed          :       4                                        |
-|       Components added      :       2                                        |
-|       Slot property added   :       2                                        |
+|       Nets changed          :      12                                        |
 |                                                                              |
-|   Total ECO changes reported:       8                                        |
+|   Total ECO changes reported:      12                                        |
 |------------------------------------------------------------------------------|

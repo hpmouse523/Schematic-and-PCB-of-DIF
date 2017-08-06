@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : DIF_1V0.brd                                   )
+(    Drawing          : DIF_1V1.brd                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Fri Jul 28 17:12:45 2017                      )
+(    Date/Time        : Sun Jul 30 13:47:32 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -45,8 +45,8 @@
 
 
 
-     'DIF_1V0-1-8.drl' created for holes connecting TOP and BOTTOM
-     -------------------------------------------------------------
+     'DIF_1V1-1-10.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
