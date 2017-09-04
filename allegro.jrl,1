@@ -1,0 +1,713 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Thu Aug 24 16:12:48 2017
+\t (00:00:03)         Host=MSY-PC User=Msy Pid=14560 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe E:\Work_File\CEPC\Schematic-and-PCB-of-DIF_V1.1\DIF_1V3.brd
+\t (00:00:03) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/Work_File/CEPC/Schematic-and-PCB-of-DIF_V1.1/DIF_1V3.brd
+\i (00:00:03) trapsize 2881
+\i (00:00:03) trapsize 2830
+\i (00:00:03) trapsize 2890
+\i (00:00:03) trapsize 2915
+\i (00:00:04) trapsize 2915
+\i (00:00:04) generaledit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 662.520 3393.687
+\i (00:00:06) trapsize 5830
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 662.520 3393.687
+\i (00:00:06) trapsize 11660
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 662.520 3393.687
+\i (00:00:06) trapsize 23321
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 3307.837 3668.873
+\i (00:00:06) trapsize 11660
+\e (00:00:07) Command not found: ~e
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:08) roam x 96
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 3473.416 3953.388
+\i (00:00:08) trapsize 5830
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 3465.254 3933.565
+\i (00:00:08) trapsize 2915
+\i (00:00:11) drag_start grid 3499.652 3987.787
+\i (00:00:11) drag_stop 3504.899 4015.189
+\i (00:00:11) roam y 96 
+\i (00:00:11) roam y 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 3410.449 3802.237
+\i (00:00:12) trapsize 5830
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 3382.465 3742.768
+\i (00:00:12) trapsize 2915
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 3256.532 3758.510
+\i (00:00:14) trapsize 1458
+\i (00:00:20) pick grid 3327.953 3781.539
+\t (00:00:20) last pick:  3328.000 3782.000
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:22) roam x 96 
+\i (00:00:22) roam x 96
+\i (00:00:27) roam x 96 
+\i (00:00:27) roam x 96
+\i (00:00:31) pick grid 3509.268 3724.112
+\t (00:00:31) last pick:  3509.000 3724.000
+\i (00:00:31) roam x 96 
+\i (00:00:31) roam x 96
+\i (00:00:32) roam x 96 
+\i (00:00:32) roam x 96
+\i (00:00:32) roam x 96 
+\i (00:00:32) roam x 96
+\i (00:00:32) roam x 96 
+\i (00:00:32) roam x 96
+\i (00:00:32) roam x 96 
+\i (00:00:32) roam x 96
+\i (00:00:33) roam x 96 
+\i (00:00:33) roam x 96
+\i (00:00:33) roam x 96 
+\i (00:00:33) roam x 96
+\i (00:00:33) roam x 96 
+\i (00:00:33) roam x 96
+\i (00:00:33) roam x 96 
+\i (00:00:33) roam x 96
+\i (00:00:38) pick grid 3761.134 3730.234
+\t (00:00:38) last pick:  3761.000 3730.000
+\i (00:00:39) roam x 96 
+\i (00:00:39) roam x 96
+\i (00:00:39) roam x 96 
+\i (00:00:39) roam x 96
+\i (00:00:39) roam x 96 
+\i (00:00:39) roam x 96
+\i (00:00:39) roam x 96 
+\i (00:00:39) roam x 96
+\i (00:00:42) setwindow form.find
+\i (00:00:42) FORM find pins YES 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick grid 3881.528 3742.477
+\t (00:00:48) last pick:  3882.000 3742.000
+\i (00:00:55) pick grid 3914.469 3789.410
+\t (00:00:55) last pick:  3914.000 3789.000
+\i (00:00:55) roam x 96 
+\i (00:00:55) roam x 96
+\i (00:00:55) roam x 96 
+\i (00:00:55) roam x 96
+\i (00:00:55) roam x 96 
+\i (00:00:55) roam x 96
+\i (00:00:56) roam x 96 
+\i (00:00:56) roam x 96
+\i (00:00:56) roam x 96 
+\i (00:00:56) roam x 96
+\i (00:00:56) roam x 96 
+\i (00:00:56) roam x 96
+\i (00:01:07) pick grid 4032.239 3799.613
+\t (00:01:07) last pick:  4032.000 3800.000
+\i (00:01:09) roam x 96 
+\i (00:01:09) roam x 96
+\i (00:01:10) roam x 96 
+\i (00:01:10) roam x 96
+\i (00:01:10) roam x 96 
+\i (00:01:10) roam x 96
+\i (00:01:10) roam x 96 
+\i (00:01:10) roam x 96
+\i (00:01:10) roam x 96 
+\i (00:01:10) roam x 96
+\i (00:01:10) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:15) roam x 96 
+\i (00:01:15) roam x 96
+\i (00:01:15) roam x 96 
+\i (00:01:15) roam x 96
+\i (00:01:16) roam x 96 
+\i (00:01:16) roam x 96
+\i (00:01:23) pick grid 4329.872 3758.802
+\t (00:01:23) last pick:  4330.000 3759.000
+\i (00:01:26) pick grid 4356.691 3783.289
+\t (00:01:26) last pick:  4357.000 3783.000
+\i (00:01:26) roam x 96 
+\i (00:01:26) roam x 96
+\i (00:01:26) roam x 96 
+\i (00:01:26) roam x 96
+\i (00:01:26) roam x 96 
+\i (00:01:26) roam x 96
+\i (00:01:27) roam x 96 
+\i (00:01:27) roam x 96
+\i (00:01:27) roam x 96 
+\i (00:01:27) roam x 96
+\i (00:01:27) roam x 96 
+\i (00:01:27) roam x 96
+\i (00:01:27) roam x 96 
+\i (00:01:27) roam x 96
+\i (00:01:28) roam x 96 
+\i (00:01:28) roam x 96
+\i (00:01:45) pick grid 4521.979 3800.488
+\t (00:01:45) last pick:  4522.000 3800.000
+\i (00:01:45) roam x 96 
+\i (00:01:45) roam x 96
+\i (00:01:46) roam x 96 
+\i (00:01:46) roam x 96
+\i (00:01:56) pick grid 4604.476 3790.868
+\t (00:01:56) last pick:  4604.000 3791.000
+\i (00:01:56) roam x 96 
+\i (00:01:56) roam x 96
+\i (00:01:56) roam x 96 
+\i (00:01:56) roam x 96
+\i (00:01:56) roam x 96 
+\i (00:01:56) roam x 96
+\i (00:01:57) roam x 96 
+\i (00:01:57) roam x 96
+\i (00:01:57) roam x 96 
+\i (00:01:57) roam x 96
+\i (00:01:57) roam x 96 
+\i (00:01:57) roam x 96
+\i (00:01:57) roam x 96 
+\i (00:01:57) roam x 96
+\i (00:02:11) pick grid 4777.050 3771.628
+\t (00:02:11) last pick:  4777.000 3772.000
+\i (00:02:12) roam x 96 
+\i (00:02:12) roam x 96
+\i (00:02:13) roam x 96 
+\i (00:02:13) roam x 96
+\i (00:02:16) roam x 96 
+\i (00:02:16) roam x 96
+\i (00:02:16) roam x 96 
+\i (00:02:16) roam x 96
+\i (00:02:16) roam x 96 
+\i (00:02:17) roam x 96
+\i (00:02:17) roam x 96 
+\i (00:02:17) roam x 96
+\i (00:02:17) roam x 96 
+\i (00:02:17) roam x 96
+\i (00:02:17) roam x 96 
+\i (00:02:17) roam x 96
+\i (00:02:18) roam x 96 
+\i (00:02:18) roam x 96
+\i (00:02:18) roam x 96 
+\i (00:02:18) roam x 96
+\i (00:02:36) pick grid 5184.583 3788.827
+\t (00:02:36) last pick:  5185.000 3789.000
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 5111.997 3769.588
+\i (00:02:37) trapsize 2915
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in 5174.963 3730.525
+\i (00:02:41) trapsize 1458
+\i (00:02:41) zoom out 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom out 5175.254 3731.108
+\i (00:02:41) trapsize 2915
+\i (00:02:41) roam x 96 
+\i (00:02:41) roam x 96
+\i (00:02:42) roam x 96 
+\i (00:02:42) roam x 96
+\i (00:02:42) zoom in 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom in 5202.074 3736.939
+\i (00:02:42) trapsize 1458
+\i (00:02:44) zoom out 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom out 5203.823 3737.231
+\i (00:02:44) trapsize 2915
+\i (00:02:55) pick grid 4626.631 3736.065
+\t (00:02:55) last pick:  4627.000 3736.000
+\i (00:03:18) pick grid 4716.999 3817.688
+\t (00:03:18) last pick:  4717.000 3818.000
+\i (00:03:18) roam x -96 
+\i (00:03:18) roam x -96
+\i (00:03:18) roam x -96 
+\i (00:03:18) roam x -96
+\i (00:03:19) roam x -96 
+\i (00:03:19) roam x -96
+\i (00:03:19) roam x -96 
+\i (00:03:19) roam x -96
+\i (00:03:19) roam x -96 
+\i (00:03:19) roam x -96
+\i (00:03:22) pick grid 4220.847 3733.150
+\t (00:03:22) last pick:  4221.000 3733.000
+\i (00:03:35) roam x -96 
+\i (00:03:35) roam x -96
+\i (00:03:35) roam x -96 
+\i (00:03:35) roam x -96
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:37) roam x -96 
+\i (00:03:37) roam x -96
+\i (00:03:37) roam x -96 
+\i (00:03:37) roam x -96
+\i (00:03:38) pick grid 3917.675 3735.482
+\t (00:03:38) last pick:  3918.000 3735.000
+\i (00:03:40) roam x -96 
+\i (00:03:40) roam x -96
+\i (00:03:52) pick grid 3829.639 3737.231
+\t (00:03:52) last pick:  3830.000 3737.000
+\i (00:03:52) roam x -96 
+\i (00:03:52) roam x -96
+\i (00:03:52) roam x -96 
+\i (00:03:52) roam x -96
+\i (00:03:52) roam x -96 
+\i (00:03:52) roam x -96
+\i (00:03:58) pick grid 3691.463 3730.235
+\t (00:03:58) last pick:  3691.000 3730.000
+\i (00:04:03) pick grid 3675.722 3794.367
+\t (00:04:03) last pick:  3676.000 3794.000
+\i (00:04:05) pick grid 3685.633 3738.980
+\t (00:04:05) last pick:  3686.000 3739.000
+\i (00:04:05) roam x -96 
+\i (00:04:05) roam x -96
+\i (00:04:05) roam x -96 
+\i (00:04:05) roam x -96
+\i (00:04:05) roam x -96 
+\i (00:04:05) roam x -96
+\i (00:04:06) roam x -96 
+\i (00:04:06) roam x -96
+\i (00:04:06) roam x -96 
+\i (00:04:06) roam x -96
+\i (00:04:06) roam x -96 
+\i (00:04:06) roam x -96
+\i (00:04:06) roam x -96 
+\i (00:04:06) roam x -96
+\i (00:04:07) roam x -96 
+\i (00:04:07) roam x -96
+\i (00:04:07) roam x -96 
+\i (00:04:07) roam x -96
+\i (00:04:17) pick grid 3274.602 3818.854
+\t (00:04:17) last pick:  3275.000 3819.000
+\i (00:04:18) zoom out 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom out 3338.151 3764.050
+\i (00:04:18) trapsize 5830
+\i (00:04:18) zoom in 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom in 3283.347 3678.929
+\i (00:04:18) trapsize 2915
+\i (00:04:18) zoom in 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom in 3283.347 3678.929
+\i (00:04:18) trapsize 1458
+\i (00:04:25) pick grid 3418.025 3696.128
+\t (00:04:25) last pick:  3418.000 3696.000
+\i (00:04:25) roam x 96 
+\i (00:04:25) roam x 96
+\i (00:04:25) roam x 96 
+\i (00:04:25) roam x 96
+\i (00:04:26) roam x 96 
+\i (00:04:26) roam x 96
+\i (00:04:26) roam x 96 
+\i (00:04:26) roam x 96
+\i (00:04:26) roam x 96 
+\i (00:04:26) roam x 96
+\i (00:04:26) roam x 96 
+\i (00:04:26) roam x 96
+\i (00:04:27) roam x 96 
+\i (00:04:27) roam x 96
+\i (00:04:27) roam x 96 
+\i (00:04:27) roam x 96
+\i (00:04:30) pick grid 3717.115 3682.136
+\t (00:04:30) last pick:  3717.000 3682.000
+\i (00:04:37) pick grid 3759.676 3654.151
+\t (00:04:37) last pick:  3760.000 3654.000
+\i (00:04:37) roam x 96 
+\i (00:04:37) roam x 96
+\i (00:04:38) roam x 96 
+\i (00:04:38) roam x 96
+\i (00:04:38) roam x 96 
+\i (00:04:38) roam x 96
+\i (00:04:38) roam x 96 
+\i (00:04:38) roam x 96
+\i (00:04:38) roam x 96 
+\i (00:04:38) roam x 96
+\i (00:04:39) pick grid 3826.141 3690.298
+\t (00:04:39) last pick:  3826.000 3690.000
+\i (00:04:56) pick grid 3934.583 3691.173
+\t (00:04:56) last pick:  3935.000 3691.000
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:58) roam x 96 
+\i (00:04:58) roam x 96
+\i (00:04:58) roam x 96 
+\i (00:04:58) roam x 96
+\i (00:04:58) roam x 96 
+\i (00:04:58) roam x 96
+\i (00:04:58) roam x 96 
+\i (00:04:59) roam x 96
+\i (00:04:59) roam x 96 
+\i (00:04:59) roam x 96
+\i (00:05:11) pick grid 3987.929 3685.051
+\t (00:05:11) last pick:  3988.000 3685.000
+\i (00:05:11) pick grid 4033.405 3685.925
+\t (00:05:11) last pick:  4033.000 3686.000
+\i (00:05:12) pick grid 4085.877 3682.427
+\t (00:05:12) last pick:  4086.000 3682.000
+\i (00:05:12) pick grid 4128.438 3686.217
+\t (00:05:12) last pick:  4128.000 3686.000
+\i (00:05:13) pick grid 4173.622 3692.047
+\t (00:05:13) last pick:  4174.000 3692.000
+\i (00:05:32) roam x 96 
+\i (00:05:32) roam x 96
+\i (00:05:32) roam x 96 
+\i (00:05:32) roam x 96
+\i (00:05:32) roam x 96 
+\i (00:05:32) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:37) roam x -96 
+\i (00:05:37) roam x -96
+\i (00:05:37) roam x -96 
+\i (00:05:37) roam x -96
+\i (00:05:37) zoom out 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 4143.597 3668.143
+\i (00:05:38) trapsize 2915
+\i (00:05:38) zoom out 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 4143.014 3663.479
+\i (00:05:38) trapsize 5830
+\i (00:05:38) roam x -96 
+\i (00:05:38) roam x -96
+\i (00:05:44) pick grid 3355.645 3738.107
+\t (00:05:44) last pick:  3356.000 3738.000
+\i (00:05:44) zoom in 1 
+\i (00:05:44) setwindow pcb
+\i (00:05:44) zoom in 3263.527 3686.801
+\i (00:05:44) trapsize 2915
+\i (00:05:44) zoom in 1 
+\i (00:05:44) setwindow pcb
+\i (00:05:44) zoom in 3263.527 3686.801
+\i (00:05:44) trapsize 1458
+\i (00:05:45) zoom in 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom in 3287.431 3685.635
+\i (00:05:45) trapsize 729
+\i (00:05:45) roam x 96 
+\i (00:05:45) roam x 96
+\i (00:05:52) pick grid 3277.517 3688.551
+\t (00:05:52) last pick:  3278.000 3689.000
+\i (00:05:52) roam x 96 
+\i (00:05:52) roam x 96
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 3346.752 3680.680
+\i (00:05:52) trapsize 1458
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 3346.751 3680.680
+\i (00:05:52) trapsize 2915
+\i (00:05:56) pick grid 3742.623 3681.846
+\t (00:05:56) last pick:  3743.000 3682.000
+\i (00:05:58) roam x 96 
+\i (00:05:58) roam x 96
+\i (00:05:58) roam x 96 
+\i (00:05:58) roam x 96
+\i (00:05:59) roam x 96 
+\i (00:05:59) roam x 96
+\i (00:05:59) roam x 96 
+\i (00:05:59) roam x 96
+\i (00:05:59) roam x 96 
+\i (00:05:59) roam x 96
+\i (00:05:59) roam x 96 
+\i (00:05:59) roam x 96
+\i (00:06:00) roam x 96 
+\i (00:06:00) roam x 96
+\i (00:06:00) roam x 96 
+\i (00:06:00) roam x 96
+\i (00:06:05) pick grid 4129.896 3678.348
+\t (00:06:05) last pick:  4130.000 3678.000
+\i (00:06:53) zoom out 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom out 4128.730 3695.838
+\i (00:06:53) trapsize 5830
+\i (00:06:53) zoom out 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom out 4127.564 3695.839
+\i (00:06:53) trapsize 11660
+\i (00:06:53) zoom out 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom out 4125.232 3686.511
+\i (00:06:53) trapsize 23321
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 4167.210 3681.846
+\i (00:06:53) trapsize 11660
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 4167.210 3681.847
+\i (00:06:53) trapsize 5830
+\i (00:06:54) zoom in 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom in 4167.211 3681.847
+\i (00:06:54) trapsize 2915
+\i (00:07:01) pick grid 3858.209 3775.714
+\t (00:07:01) last pick:  3858.000 3776.000
+\i (00:07:01) zoom out 1 
+\i (00:07:01) setwindow pcb
+\i (00:07:01) zoom out 3858.209 3762.304
+\i (00:07:01) trapsize 5830
+\i (00:07:01) roam x -96 
+\i (00:07:01) roam x -96
+\i (00:07:02) roam x -96 
+\i (00:07:02) roam x -96
+\i (00:07:02) zoom in 1 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) zoom in 3228.546 3705.169
+\i (00:07:02) trapsize 2915
+\i (00:07:02) roam x 96 
+\i (00:07:02) roam x 96
+\i (00:07:04) roam x 96 
+\i (00:07:04) roam x 96
+\i (00:07:07) pick grid 3783.580 3683.597
+\t (00:07:07) last pick:  3784.000 3684.000
+\i (00:07:21) roam x 96 
+\i (00:07:21) roam x 96
+\i (00:07:21) roam x 96 
+\i (00:07:21) roam x 96
+\i (00:07:21) roam x 96 
+\i (00:07:21) roam x 96
+\i (00:07:21) roam x 96 
+\i (00:07:21) roam x 96
+\i (00:07:22) roam x 96 
+\i (00:07:22) roam x 96
+\i (00:07:34) pick grid 4266.906 3684.763
+\t (00:07:34) last pick:  4267.000 3685.000
+\i (00:07:54) pick grid 4240.087 3683.014
+\t (00:07:54) last pick:  4240.000 3683.000
+\i (00:07:54) roam x 96 
+\i (00:07:54) roam x 96
+\i (00:07:54) roam x 96 
+\i (00:07:54) roam x 96
+\i (00:07:54) roam x 96 
+\i (00:07:54) roam x 96
+\i (00:07:55) roam x 96 
+\i (00:07:55) roam x 96
+\i (00:07:55) roam x 96 
+\i (00:07:55) roam x 96
+\i (00:07:55) roam x 96 
+\i (00:07:55) roam x 96
+\i (00:07:55) roam x 96 
+\i (00:07:55) roam x 96
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:08:02) pick grid 4489.038 3683.597
+\t (00:08:02) last pick:  4489.000 3684.000
+\i (00:08:11) roam x 96 
+\i (00:08:11) roam x 96
+\i (00:08:12) roam x 96 
+\i (00:08:12) roam x 96
+\i (00:08:12) roam x 96 
+\i (00:08:12) roam x 96
+\i (00:08:21) pick grid 4723.412 3688.845
+\t (00:08:21) last pick:  4723.000 3689.000
+\i (00:08:31) pick grid 4779.965 3691.177
+\t (00:08:31) last pick:  4780.000 3691.000
+\i (00:08:32) roam x 96 
+\i (00:08:32) roam x 96
+\i (00:08:32) roam x 96 
+\i (00:08:32) roam x 96
+\i (00:08:33) roam x 96 
+\i (00:08:33) roam x 96
+\i (00:08:33) roam x 96 
+\i (00:08:33) roam x 96
+\i (00:08:33) roam x 96 
+\i (00:08:33) roam x 96
+\i (00:08:33) roam x 96 
+\i (00:08:33) roam x 96
+\i (00:08:43) pick grid 5080.222 3687.096
+\t (00:08:43) last pick:  5080.000 3687.000
+\i (00:08:49) roam x 96 
+\i (00:08:49) roam x 96
+\i (00:08:50) roam x 96 
+\i (00:08:50) roam x 96
+\i (00:08:50) roam x 96 
+\i (00:08:50) roam x 96
+\i (00:09:04) roam x -96 
+\i (00:09:04) roam x -96
+\i (00:09:04) zoom out 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom out 5103.542 3713.915
+\i (00:09:04) trapsize 5830
+\i (00:09:04) zoom out 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom out 5096.547 3708.084
+\i (00:09:04) trapsize 11660
+\i (00:09:04) roam x -96 
+\i (00:09:04) roam x -96
+\i (00:09:04) zoom out 1 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) zoom out 4765.393 3691.760
+\i (00:09:04) trapsize 23321
+\i (00:09:04) roam x -96 
+\i (00:09:04) roam x -96
+\i (00:09:05) roam x -96 
+\i (00:09:05) roam x -96
+\i (00:09:05) zoom in 1 
+\i (00:09:05) setwindow pcb
+\i (00:09:05) zoom in 462.687 3817.693
+\i (00:09:05) trapsize 11660
+\i (00:09:05) zoom in 1 
+\i (00:09:05) setwindow pcb
+\i (00:09:05) zoom in 763.527 3792.040
+\i (00:09:05) trapsize 5830
+\i (00:09:05) zoom in 1 
+\i (00:09:05) setwindow pcb
+\i (00:09:05) zoom in 945.430 3729.074
+\i (00:09:05) trapsize 2915
+\i (00:10:07) pick grid 1614.157 3682.433
+\t (00:10:07) last pick:  1614.000 3682.000
+\i (00:10:07) roam x 96 
+\i (00:10:07) roam x 96
+\i (00:10:07) roam x 96 
+\i (00:10:07) roam x 96
+\i (00:10:07) roam x 96 
+\i (00:10:07) roam x 96
+\i (00:10:08) roam x 96 
+\i (00:10:08) roam x 96
+\i (00:10:08) roam x 96 
+\i (00:10:08) roam x 96
+\i (00:10:09) pick grid 1731.925 3680.101
+\t (00:10:09) last pick:  1732.000 3680.000
+\i (00:10:09) roam x 96 
+\i (00:10:09) roam x 96
+\i (00:10:09) roam x 96 
+\i (00:10:09) roam x 96
+\i (00:10:10) roam x 96 
+\i (00:10:10) roam x 96
+\i (00:10:10) roam x 96 
+\i (00:10:10) roam x 96
+\i (00:10:34) roam x 96 
+\i (00:10:34) roam x 96
+\i (00:10:35) roam x 96 
+\i (00:10:35) roam x 96
+\i (00:10:35) roam x 96 
+\i (00:10:35) roam x 96
+\i (00:10:35) roam x 96 
+\i (00:10:35) roam x 96
+\i (00:10:35) roam x 96 
+\i (00:10:35) roam x 96
+\i (00:10:41) pick grid 2318.446 3682.433
+\t (00:10:41) last pick:  2318.000 3682.000
+\i (00:10:41) roam x 96 
+\i (00:10:41) roam x 96
+\i (00:10:41) roam x 96 
+\i (00:10:41) roam x 96
+\i (00:10:42) roam x 96 
+\i (00:10:42) roam x 96
+\i (00:10:42) roam x 96 
+\i (00:10:42) roam x 96
+\i (00:10:42) roam x 96 
+\i (00:10:42) roam x 96
+\i (00:10:42) roam x 96 
+\i (00:10:42) roam x 96
+\i (00:10:43) roam x 96 
+\i (00:10:43) roam x 96
+\i (00:10:43) roam x 96 
+\i (00:10:43) roam x 96
+\i (00:10:46) pick grid 2614.621 3686.514
+\t (00:10:46) last pick:  2615.000 3687.000
+\i (00:10:59) pick grid 2723.063 3727.325
+\t (00:10:59) last pick:  2723.000 3727.000
+\i (00:11:30) pick grid 1966.300 3731.990
+\t (00:11:30) last pick:  1966.000 3732.000
+\i (00:11:30) roam x -96 
+\i (00:11:30) roam x -96
+\i (00:11:30) roam x -96 
+\i (00:11:30) roam x -96
+\i (00:11:30) roam x -96 
+\i (00:11:30) roam x -96
+\i (00:11:32) pick grid 1787.895 3729.658
+\t (00:11:32) last pick:  1788.000 3730.000
+\i (00:11:32) roam x -96 
+\i (00:11:32) roam x -96
+\i (00:11:33) roam x -96 
+\i (00:11:33) roam x -96
+\i (00:11:33) roam x -96 
+\i (00:11:33) roam x -96
+\i (00:12:19) roam x -96 
+\i (00:12:19) roam x -96
+\i (00:12:19) roam x -96 
+\i (00:12:19) roam x -96
+\i (00:12:19) roam x -96 
+\i (00:12:19) roam x -96
+\i (00:12:19) roam x -96 
+\i (00:12:19) roam x -96
+\i (00:12:20) roam x -96 
+\i (00:12:20) roam x -96
+\i (00:12:20) roam x -96 
+\i (00:12:20) roam x -96
+\i (00:12:27) roam x -96 
+\i (00:12:27) roam x -96
+\i (00:12:27) roam x -96 
+\i (00:12:27) roam x -96
+\i (00:12:32) pick grid 1159.981 3733.739
+\t (00:12:32) last pick:  1160.000 3734.000
+\i (00:12:32) roam x -96 
+\i (00:12:32) roam x -96
+\i (00:12:32) roam x -96 
+\i (00:12:32) roam x -96
+\i (00:12:33) roam x -96 
+\i (00:12:33) roam x -96
+\i (00:12:33) roam x -96 
+\i (00:12:33) roam x -96
+\i (00:12:35) roam x -96 
+\i (00:12:35) roam x -96
+\i (00:12:36) roam x -96 
+\i (00:12:36) roam x -96
+\i (00:12:36) roam x -96 
+\i (00:12:36) roam x -96
+\i (00:12:37) roam x -96 
+\i (00:12:37) roam x -96
+\i (00:13:24) roam x 96 
+\i (00:13:24) roam x 96
+\i (00:13:24) zoom out 1 
+\i (00:13:24) setwindow pcb
+\i (00:13:24) zoom out 1392.023 3688.846
+\i (00:13:24) trapsize 5830
+\i (00:13:24) zoom out 1 
+\i (00:13:24) setwindow pcb
+\i (00:13:24) zoom out 1392.024 3688.846
+\i (00:13:24) trapsize 11660
+\i (00:13:24) zoom out 1 
+\i (00:13:24) setwindow pcb
+\i (00:13:24) zoom out 1392.025 3688.846
+\i (00:13:24) trapsize 23321
+\i (00:13:25) roam y 96 
+\i (00:13:25) roam y 96
+\i (00:13:25) roam y 96 
+\i (00:13:25) roam y 96
+\i (00:22:19) exit 
+\e (00:22:19) Do you want to save the changes you made to DIF_1V3.brd?
+\i (00:22:20) fillin no 
+\t (00:22:21)     Journal end - Thu Aug 24 16:35:06 2017
